@@ -1,5 +1,5 @@
 local scripts = {
-    [97598239454123] = "https://raw.githubusercontent.com/leleo2083-eng/SolisUILibary/refs/heads/main/MSS.lua",
+    [97598239454123] = "https://raw.githubusercontent.com/leleo2083-eng/MSS-SCRIPT-HUB/refs/heads/main/GAG2.lua",
     [987654321] = "https://raw.githubusercontent.com/USERNAME/REPO/main/script2.lua",
     [111111111] = "https://raw.githubusercontent.com/USERNAME/REPO/main/script3.lua",
 }
