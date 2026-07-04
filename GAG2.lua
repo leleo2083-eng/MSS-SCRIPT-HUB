@@ -1,3 +1,1650 @@
--- Obfuscated with Matcha Obfuscator
--- https://github.com/matcha-obfuscator
-local _0x204,_0x0,_0x1,_0x2,_0x3,_0x4,_0x5,_0x205,_0x6,_0x7,_0x8,_0x9,_0xa,_0x208,_0xd,_0x10,_0x11,_0x12,_0x13,_0x14,_0x15,_0x16,_0x17,_0x18,_0x1b,_0x1d,_0x1e,_0x1f,_0x20,_0x21,_0x25,_0x27,_0x28,_0x2a,_0x211,_0x2d,_0x31,_0x33,_0x212,_0x36,_0x37,_0x3b,_0x41,_0x44,_0x46,_0x4b,_0x214,_0x50,_0x58,_0x65,_0x68,_0x6a,_0x6d,_0x218,_0x6e,_0x74,_0x7b,_0x7e,_0x21a,_0x80,_0x83,_0x88,_0x8a,_0x8d,_0x8f,_0x98,_0x9f,_0x21c,_0xa2,_0xa8,_0xa9,_0xaa,_0xab,_0xac,_0xad,_0xae,_0x221,_0x223,_0xb2,_0xb3,_0xb4,_0xb5,_0x224,_0xb6,_0xb7,_0xb8,_0xb9,_0xba,_0xbb,_0xbe,_0xbf,_0x229,_0xc0,_0xc1,_0xc2,_0xc3,_0xc4,_0xc5,_0xc6,_0xc7,_0xc8,_0xc9,_0xca,_0x22b,_0x22c,_0xcc,_0xce,_0xd1,_0xd2,_0xd3,_0xd4,_0xd5,_0xd6,_0xd7,_0xd8,_0x231,_0xd9,_0xdc,_0xdd,_0xde,_0xdf,_0xe0,_0xe1,_0xe2,_0xe3,_0x234,_0xe4,_0xe5,_0x235,_0xe6,_0xe7,_0x236,_0xe8,_0xe9,_0xea,_0x238,_0xeb,_0xec,_0xed,_0xee,_0xef,_0x23a,_0xf0,_0x23b,_0xf1,_0xf2,_0xf3,_0x23d,_0xf4,_0xf6,_0xf8,_0xfc,_0xff,_0x103,_0x240,_0x107,_0x108,_0x109,_0x10a,_0x243,_0x245,_0x10d,_0x246,_0x10e,_0x10f,_0x247,_0x110,_0x111,_0x112,_0x113,_0x248,_0x114,_0x249,_0x115,_0x116,_0x117,_0x11d,_0x121,_0x122,_0x250,_0x132,_0x133,_0x134,_0x135,_0x136,_0x137,_0x138,_0x139,_0x13b,_0x13c,_0x13e,_0x253,_0x140,_0x254,_0x141,_0x142;local _0x281=3;while true do if _0x281 == 785 then if 1 > 2 then local _0x225=nil end;_0x281=796 elseif _0x281 == 624 then _0xaa=function() return _0xa2(__0x282d(1)) end;_0x281=633 elseif _0x281 == 2070 then _0x138=0.3;_0x281=2075 elseif _0x281 == 1655 then _0x107=function(_0xaf) if 1 > 2 then local _0x1ef=nil end;_0xe1=_0xaf end;_0x281=1660 elseif _0x281 == 1319 then _0xe1=__0x282d(2);_0x281=1327 elseif _0x281 == 1046 then _0xbe:AddSlider({Name=__0x282d(3),Min=0.1,Max=39 + 6 - 35,Default=0.4,Suffix=__0x282d(4),Flag=__0x282d(5),Callback=function(_0xaf) _0xc0=_0xaf end});_0x281=1052 elseif _0x281 == 1737 then _0xdc:AddToggle({Name=__0x282d(6),Default=true,Flag=__0x282d(7),Callback=function(_0xaf) _0xe3=_0xaf end});_0x281=1744 elseif _0x281 == 1949 then do local _0x24c=437 end;_0x281=1956 elseif _0x281 == 2228 then task.delay(2.5,function() local _0x3e=_0x3b();_0x6:Notify({Title=__0x282d(8),Content=__0x282d(9):format(_0x3e and _0x3e.Name or __0x282d(10),_0x132,_0x133,_0x134),Type=__0x282d(11),Duration=6 + 8 - 8}) end);_0x281=2235 elseif _0x281 == 2033 then _0x134=_0x122(_0x121:AddSubTab(__0x282d(12)),__0x282d(13),_0x1e,__0x282d(14));_0x281=2041 elseif _0x281 == 824 then _0xb2:AddToggle({Name=__0x282d(15),Default=false,Flag=__0x282d(16),Callback=function(_0xaf) _0xb3=_0xaf;_0x6:Notify({Title=__0x282d(17),Content=_0xaf and __0x282d(18) or __0x282d(19),Type=_0xaf and __0x282d(20) or __0x282d(21),Duration=2 + 0}) end});_0x281=829 elseif _0x281 == 1087 then _0xce=_0xbe:AddMultiDropdown({Name=__0x282d(22),Options=_0x65(),Default={},MaxVisible=2 + 4,Searchable=true,Flag=__0x282d(23),Callback=_0xcc});_0x281=1095 elseif _0x281 == 1866 then _0x115=nil;_0x281=1871 elseif _0x281 == 1257 then _0xd1:AddToggle({Name=__0x282d(24),Default=false,Flag=__0x282d(25),Description=__0x282d(26),Callback=function(_0xaf) _0xd6=_0xaf end});_0x281=1265 elseif _0x281 == 688 then _0xac:AddToggle({Name=__0x282d(27),Default=false,Flag=__0x282d(28),Callback=function(_0xaf) _0xad=_0xaf;_0x6:Notify({Title=__0x282d(29),Content=_0xaf and __0x282d(30) or __0x282d(31),Type=_0xaf and __0x282d(32) or __0x282d(33),Duration=45 + 5 - 48}) end});_0x281=694 elseif _0x281 == 1354 then _0xe5=true;_0x281=1359 elseif _0x281 == 1311 then _0xe0=__0x282d(34);_0x281=1319 elseif _0x281 == 648 then if false then local _0x21e=nil end;_0x281=652 elseif _0x281 == 1675 then _0xa(_0x108,_0x107);_0x281=1685 elseif _0x281 == 757 then _0xb4=0.3;_0x281=768 elseif _0x281 == 71 then do local _0x206=28 end;_0x281=79 elseif _0x281 == 1887 then do local _0x24a=988 end;_0x281=1891 elseif _0x281 == 815 then _0xb9=0.05;_0x281=824 elseif _0x281 == 675 then if 1 > 2 then local _0x220=nil end;_0x281=680 elseif _0x281 == 810 then do local _0x226=140 end;_0x281=815 elseif _0x281 == 1207 then _0xd1:AddSlider({Name=__0x282d(35),Min=0.2,Max=6 + 9,Default=2 - 1,Suffix=__0x282d(36),Flag=__0x282d(37),Callback=function(_0xaf) _0xd3=_0xaf end});_0x281=1215 elseif _0x281 == 1846 then _0x248=(42 + 0) * 1;_0x281=1853 elseif _0x281 == 1215 then _0xd1:AddSlider({Name=__0x282d(38),Min=0.5,Max=2 + 1,Default=0.55,Suffix=__0x282d(39),Flag=__0x282d(40),Callback=function(_0xaf) _0xd4=_0xaf end});_0x281=1222 elseif _0x281 == 1853 then _0x114=1 - 1;_0x281=1856 elseif _0x281 == 1698 then _0xa(_0x10a,_0x109);_0x281=1703 elseif _0x281 == 1585 then _0xdc:AddToggle({Name=__0x282d(41),Default=false,Flag=__0x282d(42),Callback=function(_0xaf) _0xdd=_0xaf;if _0xaf then _0xec=1 - 1 end;_0x6:Notify({Title=__0x282d(43),Content=_0xaf and __0x282d(44) or __0x282d(45),Type=_0xaf and __0x282d(46) or __0x282d(47),Duration=1 + 1}) end});_0x281=1590 elseif _0x281 == 1744 then _0xdc:AddToggle({Name=__0x282d(48),Default=true,Flag=__0x282d(49),Callback=function(_0xaf) _0xe2=_0xaf end});_0x281=1752 elseif _0x281 == 1499 then _0xf2=1 - 1;_0x281=1508 elseif _0x281 == 282 then _0x25=function(_0x26) local _0x19;local _0x259=3;while true do if _0x259 == 17 then return _0x19 elseif _0x259 == 3 then if not _0x26 or _0x26 == "" then return false end;_0x259=9 elseif _0x259 == 9 then _0x19=pcall(function() _0x15.Crate.OpenCrate:Fire(_0x26) end);_0x259=17 else break end end end;_0x281=292 elseif _0x281 == 1277 then if 1 > 2 then local _0x233=nil end;_0x281=1286 elseif _0x281 == 1703 then if false then local _0x242=nil end;_0x281=1713 elseif _0x281 == 1110 then _0xbe:AddButton({Name=__0x282d(50),Callback=function() _0xce:SetOptions(_0x65());local _0x69=_0x68(_0xc9());_0x6:Notify({Title=__0x282d(51),Content=__0x282d(52):format(_0x69),Type=__0x282d(53),Duration=2 + 0}) end});_0x281=1116 elseif _0x281 == 186 then _0x15=require(_0x14:WaitForChild(__0x282d(54)):WaitForChild(__0x282d(55)));_0x281=190 elseif _0x281 == 1922 then _0x10d:AddToggle({Name=__0x282d(56),Default=true,Flag=__0x282d(57),Callback=function(_0xaf) _0x113=_0xaf end});_0x281=1929 elseif _0x281 == 1590 then _0xdc:AddToggle({Name=__0x282d(58),Default=true,Flag=__0x282d(59),Callback=function(_0xaf) _0xe6=_0xaf end});_0x281=1598 elseif _0x281 == 897 then task.spawn(function() while true do if _0xb3 then local _0xbc=_0x8f({onlyMy=_0xb5,fruitFilter=_0xb6,ripeOnly=_0xb7,includeWholePlants=true});for _0xe,_0xbd in ipairs(_0xbc) do if not _0xb3 then break end;if not _0xbd.isMine then continue end;if _0xb8 then _0x8a(_0xbd.plantId,_0xbd.fruitId) else local _0x38=_0xbd.model:FindFirstChild(__0x282d(60),true);if _0x38 then _0x83(_0x38,true) end end;task.wait(_0xb9) end end;task.wait(_0xb4) end end);_0x281=904 elseif _0x281 == 325 then _0x211=(60 + 0) * 1;_0x281=332 elseif _0x281 == 1752 then do local _0x244=484 end;_0x281=1759 elseif _0x281 == 1381 then _0x236=math.random() * 0;_0x281=1391 elseif _0x281 == 1065 then _0xbe:AddSlider({Name=__0x282d(61),Min=1.5,Max=2 + 2,Default=14 + 19 - 31,Suffix=__0x282d(62),Flag=__0x282d(63),Callback=function(_0xaf) _0xc2=_0xaf end});_0x281=1075 elseif _0x281 == 1810 then _0x247=math.random() * 0;_0x281=1816 elseif _0x281 == 925 then _0x229=(96 + 0) * 1;_0x281=932 elseif _0x281 == 1856 then _0x249=(14 + 0) * 1;_0x281=1866 elseif _0x281 == 2167 then _0x253=(92 + 0) * 1;_0x281=2172 elseif _0x281 == 2005 then _0x122=function(_0x123,_0xa3,_0x124,_0x125) local _0x126,_0x127,_0x128,_0x129,_0x12a,_0x12b,_0x12c,_0x12d,_0x12e,_0x12f,_0x1fd,_0x1fe,_0x131,_0xa5;local _0x280=5;while true do if _0x280 == 8 then _0x126=false;_0x280=16 elseif _0x280 == 156 then _0x131=2 - 1;_0x280=162 elseif _0x280 == 26 then _0x128=0.08;_0x280=31 elseif _0x280 == 80 then _0x123:AddButton({Name=__0x282d(64),Callback=function() _0x12b=_0xa2(_0xa3);_0x12d:SetOptions(_0x12b);_0x6:Notify({Title=_0x125 .. __0x282d(65),Content=#_0x12b .. __0x282d(66),Type=__0x282d(67),Duration=3 + 0}) end});_0x280=88 elseif _0x280 == 120 then _0x1fe=math.random() * 0;_0x280=130 elseif _0x280 == 152 then do local _0x1ff=75 end;_0x280=156 elseif _0x280 == 162 then task.spawn(function() while true do if _0x126 and #_0x129 > 1 - 1 then if _0x12a == __0x282d(68) then for _0xe,_0x5e in ipairs(_0x129) do if not _0x126 then break end;for _0xe=2 - 1,1 + 29 do if not _0x126 then break end;_0x124(_0x5e);task.wait(_0x128) end end elseif _0x12a == __0x282d(69) then for _0xe,_0x5e in ipairs(_0x129) do if not _0x126 then break end;_0x124(_0x5e);task.wait(_0x128) end else local _0x5e=_0x129[_0x131];if _0x5e then _0x124(_0x5e);_0x131=_0x131 % #_0x129 + (2 - 1) end end end;task.wait(_0x127) end end);_0x280=170 elseif _0x280 == 54 then _0x12c=function(_0xcd) _0x129=_0xcd or {};if 1 > 2 then local _0x1f8=nil end end;_0x280=58 elseif _0x280 == 179 then if _0xa5 then if false then local _0x1fa=nil end;local _0xa6=_0xa5:FindFirstChild(_0xa3);if _0xa6 and _0xa6:FindFirstChild(__0x282d(70)) then _0xa6.Items.ChildAdded:Connect(function() _0x12b=_0xa2(_0xa3);_0x12d:SetOptions(_0x12b) end) end end;_0x280=187 elseif _0x280 == 46 then _0x12b=_0xa2(_0xa3);_0x280=54 elseif _0x280 == 130 then _0x123:AddSlider({Name=__0x282d(71),Min=0.02,Max=2 + 0,Default=0.08,Suffix=__0x282d(72),Flag=__0x282d(73) .. _0xa3 .. __0x282d(74),Callback=function(_0xaf) _0x128=_0xaf end});_0x280=137 elseif _0x280 == 92 then _0x12f=_0x123:AddDropdown({Name=__0x282d(75),Options={__0x282d(76),__0x282d(77),__0x282d(78)},Default=__0x282d(79),MaxVisible=3 + 0,Flag=__0x282d(80) .. _0xa3 .. __0x282d(81),Callback=_0x12e});_0x280=102 elseif _0x280 == 66 then _0x12d=_0x123:AddMultiDropdown({Name=__0x282d(82) .. _0x125 .. __0x282d(83),Options=_0x12b,Default={},MaxVisible=41 + 6 - 41,Searchable=true,Flag=__0x282d(84) .. _0xa3 .. __0x282d(85),Callback=_0x12c});_0x280=75 elseif _0x280 == 40 then _0x12a=__0x282d(86);_0x280=46 elseif _0x280 == 31 then _0x129={};_0x280=40 elseif _0x280 == 137 then _0x123:AddToggle({Name=__0x282d(87) .. _0x125 .. __0x282d(88),Default=false,Flag=__0x282d(89) .. _0xa3 .. __0x282d(90),Callback=function(_0xaf) _0x126=_0xaf;local _0x130=#_0x129 > 1 - 1 and #_0x129 .. __0x282d(91) or __0x282d(92);_0x6:Notify({Title=__0x282d(93),Content=_0xaf and __0x282d(94) .. _0x130 or __0x282d(95),Type=_0xaf and __0x282d(96) or __0x282d(97),Duration=2 + 0}) end});_0x280=144 elseif _0x280 == 5 then if 1 > 2 then local _0x1fb=nil end;_0x280=8 elseif _0x280 == 16 then _0x127=2 - 1;_0x280=26 elseif _0x280 == 144 then _0x123:AddButton({Name=__0x282d(98),Primary=true,Callback=function() if #_0x129 == 1 - 1 then _0x6:Notify({Title=__0x282d(99),Content=__0x282d(100),Type=__0x282d(101),Duration=2 + 0});return end;for _0xe,_0x5e in ipairs(_0x129) do _0x124(_0x5e);task.wait(_0x128) end;_0x6:Notify({Title=__0x282d(102),Content=__0x282d(103):format(#_0x129),Type=__0x282d(104),Duration=8 + 14 - 20}) end});_0x280=152 elseif _0x280 == 107 then _0xa(_0x12f,_0x12e);_0x280=114 elseif _0x280 == 114 then _0x123:AddSlider({Name=__0x282d(105),Min=0.1,Max=1 * 9 + 1,Default=2 - 1,Suffix=__0x282d(106),Flag=__0x282d(107) .. _0xa3 .. __0x282d(108),Callback=function(_0xaf) _0x127=_0xaf end});_0x280=120 elseif _0x280 == 102 then _0x1fd=math.random() * 0;_0x280=107 elseif _0x280 == 170 then _0xa5=_0x14:FindFirstChild(__0x282d(109));_0x280=179 elseif _0x280 == 58 then if 1 > 2 then local _0x1fc=nil end;_0x280=66 elseif _0x280 == 187 then return #_0x12b elseif _0x280 == 88 then _0x12e=function(_0xaf) do local _0x1f9=883 end;_0x12a=_0xaf end;_0x280=92 elseif _0x280 == 75 then _0xa(_0x12d,_0x12c);_0x280=80 else break end end end;_0x281=2010 elseif _0x281 == 1660 then if 1 > 2 then local _0x241=nil end;_0x281=1671 elseif _0x281 == 332 then _0x2d=function(_0x2e) local _0x152,_0x19,_0x2f,_0x30;local _0x25c=1;while true do if _0x25c == 45 then _0x30=_0x2e.PrimaryPart or _0x2e:FindFirstChildWhichIsA(__0x282d(110),true);_0x25c=54 elseif _0x25c == 18 then if _0x2e:IsA(__0x282d(111)) then if false then local _0x150=nil end;return _0x2e.Position end;_0x25c=26 elseif _0x25c == 31 then _0x19,_0x2f=pcall(function() return _0x2e:GetPivot() end);_0x25c=37 elseif _0x25c == 54 then return _0x30 and _0x30.Position elseif _0x25c == 26 then _0x152=(70 + 0) * 1;_0x25c=31 elseif _0x25c == 37 then if _0x19 and _0x2f then return _0x2f.Position end;_0x25c=45 elseif _0x25c == 1 then if not _0x2e or not _0x2e.Parent then return nil end;_0x25c=10 elseif _0x25c == 10 then if 1 > 2 then local _0x151=nil end;_0x25c=18 else break end end end;_0x281=338 elseif _0x281 == 79 then _0x7=type(_0x5.SaveConfig) == __0x282d(112) and type(_0x5.LoadConfig) == __0x282d(113) and type(_0x5.ListConfigs) == __0x282d(114);_0x281=88 elseif _0x281 == 1473 then _0xf0=nil;_0x281=1482 elseif _0x281 == 1156 then _0xd4=0.55;_0x281=1163 elseif _0x281 == 451 then _0x65=function() local _0x66,_0x5c,_0x181;local _0x268=5;while true do if _0x268 == 12 then for _0xe,_0x67 in ipairs(_0x58(nil)) do if not _0x5c[_0x67.seedName] then if 1 > 2 then local _0x17e=nil end;_0x5c[_0x67.seedName]=true;table.insert(_0x66,_0x67.seedName);if false then local _0x17f=nil end end end;_0x268=19 elseif _0x268 == 5 then _0x66,_0x5c={},{};_0x268=12 elseif _0x268 == 33 then _0x181=math.random() * 0;_0x268=39 elseif _0x268 == 19 then if false then local _0x180=nil end;_0x268=24 elseif _0x268 == 39 then return _0x66 elseif _0x268 == 24 then table.sort(_0x66);_0x268=33 else break end end end;_0x281=456 elseif _0x281 == 1978 then task.spawn(function() while true do task.wait(20 * 3 + 0);local _0x71=tick();for _0x120,_0xbd in pairs(_0x116) do if _0x71 - _0xbd > 121 + 22 - 23 then _0x116[_0x120]=nil end end end end);_0x281=1983 elseif _0x281 == 1688 then _0x10a=_0xdc:AddDropdown({Name=__0x282d(115),Options=_0x98(),Default=__0x282d(116),MaxVisible=19 + 11 - 25,Searchable=true,Flag=__0x282d(117),Callback=_0x109});_0x281=1698 elseif _0x281 == 932 then _0xc0=0.4;_0x281=941 elseif _0x281 == 1965 then task.spawn(function() while true do if _0x10e then local _0x118=_0x117();if #_0x118 > 1 - 1 then local _0x2c=_0x28();if _0x2c and not _0x115 then _0x115=_0x2c.Position end;for _0xe,_0x9d in ipairs(_0x118) do if not _0x10e then break end;if _0x116[_0x9d.id] then continue end;if _0x111 and _0x9d.position then _0x2a(_0x9d.position);task.wait(0.15) end;_0x116[_0x9d.id]=tick();ttotalClaimed=_0x114 + (2 - 1);if _0x112 then _0x6:Notify({Title=__0x282d(118),Content=__0x282d(119):format(_0x9d.name,_0x114),Type=__0x282d(120),Duration=1 + 1}) end;task.wait(_0x110) end;if _0x113 and _0x115 then _0x2a(_0x115) end end end;task.wait(_0x10f) end end);_0x281=1969 elseif _0x281 == 1564 then if 1 > 2 then local _0x23e=nil end;_0x281=1569 elseif _0x281 == 1891 then _0x10d:AddToggle({Name=__0x282d(121),Default=false,Flag=__0x282d(122),Callback=function(_0xaf) _0x10e=_0xaf;if _0xaf then local _0x11c=_0x28();if _0x11c then _0x115=_0x11c.Position end end;_0x6:Notify({Title=__0x282d(123),Content=_0xaf and __0x282d(124) or __0x282d(125),Type=_0xaf and __0x282d(126) or __0x282d(127),Duration=2 + 0}) end});_0x281=1902 elseif _0x281 == 512 then _0x7b=function() local _0x7c,_0x29;local _0x26e=5;while true do if _0x26e == 5 then _0x7c=function(_0x7d) local _0x26d=5;while true do if _0x26d == 22 then return nil,nil elseif _0x26d == 5 then if not _0x7d then return nil,nil end;_0x26d=8 elseif _0x26d == 8 then for _0xe,_0x5e in ipairs(_0x7d:GetChildren()) do if _0x5e:IsA(__0x282d(128)) and _0x5e:GetAttribute(__0x282d(129)) then return _0x5e,_0x5e:GetAttribute(__0x282d(130)) end end;_0x26d=19 elseif _0x26d == 19 then if false then local _0x19c=nil end;_0x26d=22 else break end end end;_0x26e=11 elseif _0x26e == 11 then _0x29=_0x12.Character;_0x26e=15 elseif _0x26e == 15 then if _0x29 then local _0x24,_0x1c=_0x7c(_0x29);if _0x24 then if false then local _0x19d=nil end;return _0x24,_0x1c end end;_0x26e=26 elseif _0x26e == 26 then return _0x7c(_0x12:FindFirstChild(__0x282d(131))) else break end end end;_0x281=521 elseif _0x281 == 667 then _0xad=false;_0x281=675 elseif _0x281 == 306 then _0x28=function() local _0x29;local _0x25a=5;while true do if _0x25a == 5 then _0x29=_0x12.Character;_0x25a=11 elseif _0x25a == 17 then if not _0x29 then return nil end;_0x25a=24 elseif _0x25a == 24 then return _0x29:FindFirstChild(__0x282d(132)) elseif _0x25a == 11 then if 1 > 2 then local _0x14c=nil end;_0x25a=17 else break end end end;_0x281=310 elseif _0x281 == 1804 then _0x10f=0.5;_0x281=1810 elseif _0x281 == 2061 then _0x137=2 - 1;_0x281=2070 elseif _0x281 == 1556 then task.spawn(function() while true do local _0x3d=workspace:FindFirstChild(__0x282d(133));if _0x3d then for _0xe,_0x3e in ipairs(_0x3d:GetChildren()) do local _0x3f=_0x3e:FindFirstChild(__0x282d(134));if _0x3f and #_0x3f:GetChildren() > 1 - 1 then local _0x100=_0xed[_0x3e];local _0x71=_0xfc(_0x3e);_0xed[_0x3e]=_0x71;if _0x100 and not _0x71 and _0xe7 and _0xdd then local _0x101=_0xee[_0x3e];local _0x102=__0x282d(135);if _0x101 then local _0xda=_0x10:GetPlayerByUserId(_0x101);if _0xda then _0x102=_0xda.DisplayName end end;_0x6:Notify({Title=__0x282d(136),Content=_0x102 .. __0x282d(137),Type=__0x282d(138),Duration=3 + 0}) end end end end;task.wait(0.5) end end);_0x281=1564 elseif _0x281 == 135 then _0x10=game:GetService(__0x282d(139));_0x281=144 elseif _0x281 == 863 then _0xba=function(_0xaf) _0xb6=_0xaf end;_0x281=872 elseif _0x281 == 166 then _0x12=_0x10.LocalPlayer;_0x281=171 elseif _0x281 == 1902 then _0x10d:AddSlider({Name=__0x282d(140),Min=0.1,Max=3 * 3 + 1,Default=0.5,Suffix=__0x282d(141),Flag=__0x282d(142),Callback=function(_0xaf) _0x10f=_0xaf end});_0x281=1907 elseif _0x281 == 1116 then _0xbe:AddButton({Name=__0x282d(143),Callback=function() local _0x3e=_0x3b();if not _0x3e then _0x6:Notify({Title=__0x282d(144),Content=__0x282d(145),Type=__0x282d(146),Duration=1 + 1});return end;local _0x52=_0x50(_0x3e,_0xc2);local _0x9c=_0x68(_0xc9());_0x6:Notify({Title=__0x282d(147),Content=__0x282d(148):format(#_0x52,_0x9c),Type=__0x282d(149),Duration=2 * 2 + 0}) end});_0x281=1124 elseif _0x281 == 345 then _0x33=function(_0x2e) local _0x34,_0x35;local _0x25e=1;while true do if _0x25e == 30 then return _0x35 <= _0x34 elseif _0x25e == 1 then _0x34=_0x2e:GetAttribute(__0x282d(150));_0x25e=9 elseif _0x25e == 9 then _0x35=_0x2e:GetAttribute(__0x282d(151));_0x25e=15 elseif _0x25e == 15 then if typeof(_0x34) ~= __0x282d(152) or typeof(_0x35) ~= __0x282d(153) then if 1 > 2 then local _0x155=nil end;return true end;_0x25e=26 elseif _0x25e == 26 then do local _0x156=812 end;_0x25e=30 else break end end end;_0x281=354 elseif _0x281 == 106 then _0xa=function(_0xb,_0xc) if _0xb and _0xc then local _0x144=math.random() * 0;table.insert(_0x9,function() _0xc(_0xb:Get()) end) end;if 1 > 2 then local _0x145=nil end end;_0x281=115 elseif _0x281 == 387 then _0x41=function(_0x3e) local _0x42;local _0x262=5;while true do if _0x262 == 12 then if not _0x3e then return _0x42 end;_0x262=15 elseif _0x262 == 15 then for _0xe,_0x43 in ipairs(_0x3e:GetDescendants()) do do local _0x167=920 end;if _0x43:IsA(__0x282d(154)) and _0x11:HasTag(_0x43,__0x282d(155)) and _0x43.Transparency < 2 - 1 then table.insert(_0x42,_0x43);local _0x166=(58 + 0) * 1 end end;_0x262=22 elseif _0x262 == 22 then return _0x42 elseif _0x262 == 5 then _0x42={};_0x262=12 else break end end end;_0x281=396 elseif _0x281 == 1135 then _0xd1=_0xab:AddSubTab(__0x282d(156));_0x281=1144 elseif _0x281 == 178 then _0x14=game:GetService(__0x282d(157));_0x281=186 elseif _0x281 == 992 then _0xc7=true;_0x281=998 elseif _0x281 == 354 then _0x212=math.random() * 0;_0x281=362 elseif _0x281 == 429 then do local _0x215=787 end;_0x281=438 elseif _0x281 == 2220 then if _0x7 then _0x141:AddSection(__0x282d(158));if 1 > 2 then local _0x200=nil end;local _0x143;do local _0x201=671 end;_0x143=_0x141:AddDropdown({Name=__0x282d(159),Options=_0x5:ListConfigs(),MaxVisible=3 + 47 - 45,Searchable=true,Callback=function(_0xaf) if _0xaf and _0xaf ~= "" then _0x8=_0xaf;if _0x142 then _0x142:Set(_0xaf) end end end});_0x141:AddButton({Name=__0x282d(160),Primary=true,Callback=function() local _0x19=_0x5:SaveConfig(_0x8);if _0x143 then _0x143:SetOptions(_0x5:ListConfigs()) end;_0x6:Notify({Title=__0x282d(161),Content=_0x19 and __0x282d(162) .. _0x8 .. __0x282d(163) or __0x282d(164),Type=_0x19 and __0x282d(165) or __0x282d(166),Duration=1 * 3 + 0}) end});_0x141:AddButton({Name=__0x282d(167),Callback=function() local _0x19=_0x5:LoadConfig(_0x8);if _0x19 then _0xd() end;_0x6:Notify({Title=__0x282d(168),Content=_0x19 and __0x282d(169) .. _0x8 .. __0x282d(170) or __0x282d(171),Type=_0x19 and __0x282d(172) or __0x282d(173),Duration=3 + 0}) end});_0x141:AddButton({Name=__0x282d(174),Callback=function() if _0x143 then _0x143:SetOptions(_0x5:ListConfigs()) end;_0x6:Notify({Title=__0x282d(175),Content=__0x282d(176),Type=__0x282d(177),Duration=1 + 1}) end});_0x141:AddButton({Name=__0x282d(178),Callback=function() local _0x19=type(_0x5.DeleteConfig) == __0x282d(179) and _0x5:DeleteConfig(_0x8);if _0x143 then _0x143:SetOptions(_0x5:ListConfigs()) end;_0x6:Notify({Title=__0x282d(180),Content=_0x19 and __0x282d(181) .. _0x8 .. __0x282d(182) or __0x282d(183),Type=_0x19 and __0x282d(184) or __0x282d(185),Duration=2 + 1}) end});do local _0x202=464 end;task.defer(function() for _0xe,_0x1c in ipairs(_0x5:ListConfigs()) do if _0x1c == _0x8 then if _0x5:LoadConfig(_0x8) then _0xd();_0x6:Notify({Title=__0x282d(186),Content=__0x282d(187),Type=__0x282d(188),Duration=1 + 2}) end;break end end end) else local _0x203=(87 + 0) * 1;_0x141:AddParagraph({Title=__0x282d(189),Text=__0x282d(190)}) end;_0x281=2228 elseif _0x281 == 1327 then _0xe2=true;_0x281=1335 elseif _0x281 == 1023 then _0x22b=(71 + 0) * 1;_0x281=1034 elseif _0x281 == 1780 then _0x10d=_0xab:AddSubTab(__0x282d(191));_0x281=1786 elseif _0x281 == 1397 then if false then local _0x237=nil end;_0x281=1402 elseif _0x281 == 2129 then _0x13c=_0x13b:AddSubTab(__0x282d(192));_0x281=2136 elseif _0x281 == 65 then _0x6=_0x5:CreateWindow({Name=__0x282d(193),LoadingAnimation=true,LoadingText=__0x282d(194),LoadingDuration=2.65});_0x281=71 elseif _0x281 == 485 then _0x218=math.random() * 0;_0x281=491 elseif _0x281 == 1172 then if 1 > 2 then local _0x22f=nil end;_0x281=1178 elseif _0x281 == 338 then _0x31=function() local _0x32;local _0x25d=4;while true do if _0x25d == 4 then if 1 > 2 then local _0x153=nil end;_0x25d=11 elseif _0x25d == 11 then _0x32=_0x14:FindFirstChild(__0x282d(195));_0x25d=16 elseif _0x25d == 16 then if false then local _0x154=nil end;_0x25d=25 elseif _0x25d == 25 then return _0x32 and _0x32.Value == true else break end end end;_0x281=345 elseif _0x281 == 1453 then if 1 > 2 then local _0x239=nil end;_0x281=1457 elseif _0x281 == 1516 then _0x23d=(95 + 0) * 1;_0x281=1521 elseif _0x281 == 1929 then _0x10d:AddToggle({Name=__0x282d(196),Default=true,Flag=__0x282d(197),Callback=function(_0xaf) _0x112=_0xaf end});_0x281=1936 elseif _0x281 == 540 then _0x83=function(_0x38,_0x84) local _0x19;local _0x271=4;while true do if _0x271 == 15 then return _0x19 elseif _0x271 == 4 then if not _0x38 or not _0x38.Parent then return false end;_0x271=12 elseif _0x271 == 12 then _0x19=pcall(function() if _0x84 then local _0x85=_0x38.MaxActivationDistance;local _0x86=_0x38.HoldDuration;local _0x87=_0x38.RequiresLineOfSight;_0x38.MaxActivationDistance=math.huge;_0x38.HoldDuration=1 - 1;_0x38.RequiresLineOfSight=false;fireproximityprompt(_0x38);task.delay(0.1,function() if _0x38.Parent then _0x38.MaxActivationDistance=_0x85;_0x38.HoldDuration=_0x86;_0x38.RequiresLineOfSight=_0x87 end end) else fireproximityprompt(_0x38) end end);_0x271=15 else break end end end;_0x281=550 elseif _0x281 == 1482 then _0x23b=(46 + 0) * 1;_0x281=1488 elseif _0x281 == 402 then _0x46=function(_0x2b,_0x45,_0x47) local _0x264=2;while true do if _0x264 == 11 then for _0xe,_0x48 in ipairs(_0x45) do local _0x49,_0x4a=_0x2b.X - _0x48.X,_0x2b.Z - _0x48.Z;if _0x49 * _0x49 + _0x4a * _0x4a < _0x47 * _0x47 then local _0x16b=math.random() * 0;return false end;if false then local _0x16c=nil end end;_0x264=19 elseif _0x264 == 2 then _0x47=_0x47 or _0x1f;_0x264=11 elseif _0x264 == 19 then return true else break end end end;_0x281=407 elseif _0x281 == 984 then _0xc6=1 - 1;_0x281=992 elseif _0x281 == 705 then _0x221=(25 + 0) * 1;_0x281=710 elseif _0x281 == 773 then _0x224=math.random() * 0;_0x281=780 elseif _0x281 == 1377 then _0xe7=true;_0x281=1381 elseif _0x281 == 855 then _0xb2:AddToggle({Name=__0x282d(198),Default=true,Flag=__0x282d(199),Callback=function(_0xaf) _0xb5=_0xaf end});_0x281=863 elseif _0x281 == 1730 then _0xdc:AddToggle({Name=__0x282d(200),Default=true,Flag=__0x282d(201),Callback=function(_0xaf) _0xe4=_0xaf end});_0x281=1737 elseif _0x281 == 2118 then task.spawn(function() while true do if _0x136 then for _0xe,_0x3a in ipairs(_0x80()) do if not _0x136 then break end;if _0x25(_0x3a.id) then oopenCount=_0x139 + (2 - 1) end;task.wait(_0x138) end end;task.wait(_0x137) end end);_0x281=2122 elseif _0x281 == 723 then _0xac:AddButton({Name=__0x282d(202),Callback=function() local _0xb0=_0x18();if _0xb0 then local _0xb1=_0xb0.TotalSellValue or _0xb0.TotalValue or _0xb0.TotalBaseValue or 1 - 1;_0x6:Notify({Title=__0x282d(203),Content=__0x282d(204):format(tostring(_0xb1)),Type=__0x282d(205),Duration=3 + 1}) else _0x6:Notify({Title=__0x282d(206),Content=__0x282d(207),Type=__0x282d(208),Duration=1 * 3 + 0}) end end});_0x281=733 elseif _0x281 == 1201 then _0xd1:AddToggle({Name=__0x282d(209),Default=false,Flag=__0x282d(210),Callback=function(_0xaf) _0xd2=_0xaf;if _0xaf then _0xd7=1 - 1 end;_0x6:Notify({Title=__0x282d(211),Content=_0xaf and __0x282d(212) or __0x282d(213),Type=_0xaf and __0x282d(214) or __0x282d(215),Duration=2 + 0}) end});_0x281=1207 elseif _0x281 == 241 then _0x1d=function(_0x1c) local _0x149;local _0x257=1;while true do if _0x257 == 26 then if false then local _0x14a=nil end;_0x257=40 elseif _0x257 == 1 then if not _0x1c or _0x1c == "" then if 1 > 2 then local _0x148=nil end;return end;_0x257=9 elseif _0x257 == 16 then pcall(function() _0x15.GearShop.PurchaseGear:Fire(_0x1c) end);_0x257=26 elseif _0x257 == 9 then _0x149=(47 + 0) * 1;_0x257=16 else break end end end;_0x281=246 elseif _0x281 == 780 then _0xb6=__0x282d(216);_0x281=785 elseif _0x281 == 1102 then _0xa(_0xce,_0xcc);_0x281=1110 elseif _0x281 == 1457 then _0xef={};_0x281=1468 elseif _0x281 == 535 then _0x80=function() local _0x81,_0x7c,_0x1a2;local _0x270=1;while true do if _0x270 == 25 then _0x1a2=(73 + 0) * 1;_0x270=31 elseif _0x270 == 31 then _0x7c(_0x12.Character);_0x270=36 elseif _0x270 == 36 then return _0x81 elseif _0x270 == 19 then _0x7c(_0x12:FindFirstChild(__0x282d(217)));_0x270=25 elseif _0x270 == 10 then _0x7c=function(_0x7d) if not _0x7d then return end;for _0xe,_0x5e in ipairs(_0x7d:GetChildren()) do local _0x1a1=math.random() * 0;if _0x5e:IsA(__0x282d(218)) and _0x5e:GetAttribute(__0x282d(219)) then local _0x82=_0x5e:GetAttribute(__0x282d(220));table.insert(_0x81,{tool=_0x5e,name=_0x82,id=_0x82}) end end end;_0x270=19 elseif _0x270 == 1 then _0x81={};_0x270=10 else break end end end;_0x281=540 elseif _0x281 == 1907 then _0x10d:AddSlider({Name=__0x282d(221),Min=0.05,Max=22 + 24 - 44,Default=0.1,Suffix=__0x282d(222),Flag=__0x282d(223),Callback=function(_0xaf) _0x110=_0xaf end});_0x281=1913 elseif _0x281 == 610 then _0xa8=function() return _0xa2(__0x282d(224)) end;_0x281=618 elseif _0x281 == 1543 then _0xfc=function(_0x3e) local _0x92,_0xfd,_0x2c,_0x1df,_0xfe;local _0x27c=3;while true do if _0x27c == 65 then if not _0xfe then return false end;_0x27c=75 elseif _0x27c == 60 then _0xfe=_0xf6(_0x3e);_0x27c=65 elseif _0x27c == 10 then _0x92=_0xf4(_0x3e);_0x27c=17 elseif _0x27c == 25 then _0xfd=_0x10:GetPlayerByUserId(_0x92);_0x27c=33 elseif _0x27c == 38 then _0x2c=_0xfd.Character:FindFirstChild(__0x282d(225));_0x27c=46 elseif _0x27c == 3 then if false then local _0x1de=nil end;_0x27c=10 elseif _0x27c == 17 then if not _0x92 or _0x92 == _0x13 then local _0x1dc=(5 + 0) * 1;return false end;_0x27c=25 elseif _0x27c == 33 then if not _0xfd or not _0xfd.Character then local _0x1dd=math.random() * 0;return false end;_0x27c=38 elseif _0x27c == 50 then _0x1df=(95 + 0) * 1;_0x27c=60 elseif _0x27c == 75 then return _0xf8(_0x2c.Position,_0xfe) elseif _0x27c == 46 then if not _0x2c then return false end;_0x27c=50 else break end end end;_0x281=1549 elseif _0x281 == 1193 then _0xd7=1 - 1;_0x281=1201 elseif _0x281 == 1153 then _0xd3=2 - 1;_0x281=1156 elseif _0x281 == 1647 then _0xdc:AddSlider({Name=__0x282d(226),Min=0.01,Max=2 - 1,Default=0.03,Suffix=__0x282d(227),Flag=__0x282d(228),Callback=function(_0xaf) _0xdf=_0xaf end});_0x281=1655 elseif _0x281 == 1248 then _0xa(_0xd9,_0xd8);_0x281=1257 elseif _0x281 == 1496 then do local _0x23c=192 end;_0x281=1499 elseif _0x281 == 1298 then _0xde=0.2;_0x281=1307 elseif _0x281 == 800 then _0xb8=true;_0x281=810 elseif _0x281 == 2010 then _0x250=math.random() * 0;_0x281=2020 elseif _0x281 == 257 then _0x1f=1.05;_0x281=263 elseif _0x281 == 1178 then _0xd6=false;_0x281=1185 elseif _0x281 == 2105 then _0x135:AddButton({Name=__0x282d(229),Primary=true,Callback=function() local _0x81=_0x80();local _0x13a=1 - 1;for _0xe,_0x3a in ipairs(_0x81) do if _0x25(_0x3a.id) then oopened=_0x13a + (2 - 1) end;task.wait(_0x138) end;_0x6:Notify({Title=__0x282d(230),Content=__0x282d(231):format(_0x13a),Type=_0x13a > 1 - 1 and __0x282d(232) or __0x282d(233),Duration=3 + 0}) end});_0x281=2110 elseif _0x281 == 214 then _0x17=function() local _0x146=(68 + 0) * 1;pcall(function() _0x15.NPCS.SellAll:Fire() end) end;_0x281=221 elseif _0x281 == 1685 then _0x109=function(_0xaf) _0xe0=_0xaf end;_0x281=1688 elseif _0x281 == 2097 then _0x135:AddSlider({Name=__0x282d(234),Min=0.1,Max=1 + 2,Default=0.3,Suffix=__0x282d(235),Flag=__0x282d(236),Callback=function(_0xaf) _0x138=_0xaf end});_0x281=2105 elseif _0x281 == 1011 then _0xca=function(_0x78,_0xcb) if _0x78 > 1 - 1 then return __0x282d(237):format(_0x78),__0x282d(238) end;if _0xcb == __0x282d(239) then do local _0x1ce=402 end;return __0x282d(240),__0x282d(241) elseif _0xcb == __0x282d(242) then return __0x282d(243),__0x282d(244) elseif _0xcb == __0x282d(245) then return __0x282d(246),__0x282d(247) else if 1 > 2 then local _0x1cf=nil end;return __0x282d(248),__0x282d(249) end end;_0x281=1019 elseif _0x281 == 918 then _0xbf=false;_0x281=925 elseif _0x281 == 1052 then _0xbe:AddSlider({Name=__0x282d(250),Min=0.08,Max=7 + 3 - 8,Default=0.15,Suffix=__0x282d(251),Flag=__0x282d(252),Callback=function(_0xaf) _0xc1=_0xaf end});_0x281=1060 elseif _0x281 == 2160 then _0x13e=_0x13b:AddSubTab(__0x282d(253));_0x281=2167 elseif _0x281 == 93 then _0x8=__0x282d(254);_0x281=101 elseif _0x281 == 1002 then _0xc9=function() return #_0xc5 > 1 - 1 and _0xc5 or nil end;_0x281=1011 elseif _0x281 == 2110 then if 1 > 2 then local _0x252=nil end;_0x281=2118 elseif _0x281 == 156 then if 1 > 2 then local _0x20b=nil end;_0x281=166 elseif _0x281 == 2172 then _0x13e:AddButton({Name=__0x282d(255),Callback=function() local _0x3e=_0x3b();local _0xb0=_0x18();local _0x13f=_0xb0 and (_0xb0.TotalSellValue or _0xb0.TotalValue or 1 - 1) or __0x282d(256);_0x6:Notify({Title=__0x282d(257),Content=__0x282d(258):format(_0x3e and _0x3e.Name or __0x282d(259),_0x31() and __0x282d(260) or __0x282d(261),tostring(_0x13f),_0xec,_0xc6,_0xd7,_0x139),Type=__0x282d(262),Duration=10 + 2 - 6}) end});_0x281=2181 elseif _0x281 == 1359 then _0x235=(50 + 0) * 1;_0x281=1368 elseif _0x281 == 2082 then _0x135:AddToggle({Name=__0x282d(263),Default=false,Flag=__0x282d(264),Callback=function(_0xaf) _0x136=_0xaf;if _0xaf then _0x139=1 - 1 end;_0x6:Notify({Title=__0x282d(265),Content=_0xaf and __0x282d(266) or __0x282d(267),Type=_0xaf and __0x282d(268) or __0x282d(269),Duration=11 + 14 - 23}) end});_0x281=2088 elseif _0x281 == 1759 then if not _G.MSSAntiAFKConnected then _G.MSSAntiAFKConnected=true;_0x12.Idled:Connect(function() if _0xe2 then local _0x10b=game:GetService(__0x282d(270));_0x10b:Button2Down(Vector2.new(1 - 1,1 - 1),workspace.CurrentCamera.CFrame);task.wait(2 - 1);_0x10b:Button2Up(Vector2.new(1 - 1,1 - 1),workspace.CurrentCamera.CFrame) end end);do local _0x1f0=182 end end;_0x281=1768 elseif _0x281 == 1936 then if false then local _0x24b=nil end;_0x281=1944 elseif _0x281 == 1130 then task.spawn(function() while true do if _0xbf then if _0xc4 then local _0x3e=_0x3b();if _0x3e then local _0x42=_0x41(_0x3e);if _0x42[2 - 1] then _0x2a(_0x42[2 - 1].Position);task.wait(0.15) end end end;local _0x78,_0xcb=_0x74(_0xc9(),_0xc2,_0xc1,_0xc3,nil);if _0x78 > 1 - 1 then pplantPlantedCount=_0xc6 + _0x78 elseif _0xc7 and _0xcb and _0xcb ~= __0x282d(271) and tick() - _0xc8 > 12 + 33 - 25 then _0xc8=tick();local _0xcf=_0xca(1 - 1,_0xcb);_0x6:Notify({Title=__0x282d(272),Content=_0xcf,Type=__0x282d(273),Duration=1 + 2}) end end;task.wait(_0xc0) end end);_0x281=1135 elseif _0x281 == 652 then _0xac=_0xab:AddSubTab(__0x282d(274));_0x281=661 elseif _0x281 == 29 then if type(_0x2) ~= __0x282d(275) or #_0x2 < 4237 + 5763 then error(__0x282d(276):format(type(_0x2) == __0x282d(277) and #_0x2 or -(2 - 1)),1 - 1) end;_0x281=40 elseif _0x281 == 529 then _0x21a=math.random() * 0;_0x281=535 elseif _0x281 == 1468 then _0x23a=math.random() * 0;_0x281=1473 elseif _0x281 == 618 then _0xa9=function() return _0xa2(__0x282d(278)) end;_0x281=624 elseif _0x281 == 2041 then do local _0x251=324 end;_0x281=2047 elseif _0x281 == 53 then _0x5=_0x3();_0x281=61 elseif _0x281 == 1335 then _0xe3=true;_0x281=1338 elseif _0x281 == 1621 then _0xdc:AddToggle({Name=__0x282d(279),Default=false,Flag=__0x282d(280),Callback=function(_0xaf) _0xe9=_0xaf end});_0x281=1627 elseif _0x281 == 1793 then _0x10e=false;_0x281=1804 elseif _0x281 == 44 then if not _0x3 then error(__0x282d(281) .. tostring(_0x4),1 - 1) end;_0x281=53 elseif _0x281 == 694 then _0xac:AddSlider({Name=__0x282d(282),Min=2 - 1,Max=11 + 64 - 15,Default=5 + 0,Suffix=__0x282d(283),Flag=__0x282d(284),Callback=function(_0xaf) _0xae=_0xaf end});_0x281=705 elseif _0x281 == 477 then _0x6d=function(_0x3e) local _0x3f=_0x3e and _0x3e:FindFirstChild(__0x282d(285));return _0x3f and #_0x3f:GetChildren() or 1 - 1 end;_0x281=485 elseif _0x281 == 2024 then _0x133=_0x122(_0x121:AddSubTab(__0x282d(286)),__0x282d(287),_0x1d,__0x282d(288));_0x281=2033 elseif _0x281 == 2020 then _0x132=_0x122(_0x121:AddSubTab(__0x282d(289)),__0x282d(290),_0x1b,__0x282d(291));_0x281=2024 elseif _0x281 == 197 then pcall(function() _0x16=require(_0x14.SharedModules.Flags.StealFlags) end);_0x281=205 elseif _0x281 == 1411 then _0xea=0.1;_0x281=1417 elseif _0x281 == 561 then _0x8d=function(_0x8e,_0x8b,_0x8c) local _0x19;local _0x274=4;while true do if _0x274 == 10 then if not _0x31() then return false end;_0x274=16 elseif _0x274 == 16 then _0x19=pcall(function() _0x15.Steal.BeginSteal:Fire(_0x8e,_0x8b,_0x8c or "");_0x15.Steal.CompleteSteal:Fire() end);_0x274=22 elseif _0x274 == 22 then return _0x19 elseif _0x274 == 4 then if not _0x8e or not _0x8b then do local _0x1a9=76 end;return false end;_0x274=10 else break end end end;_0x281=570 elseif _0x281 == 1292 then _0xdd=false;_0x281=1298 elseif _0x281 == 884 then _0xa(_0xbb,_0xba);_0x281=891 elseif _0x281 == 2056 then _0x136=false;_0x281=2061 elseif _0x281 == 974 then _0xc5={};_0x281=984 elseif _0x281 == 2193 then _0x141=_0x140:AddSubTab(__0x282d(292));_0x281=2202 elseif _0x281 == 733 then _0x223=(8 + 0) * 1;_0x281=738 elseif _0x281 == 1606 then _0xdc:AddToggle({Name=__0x282d(293),Default=true,Flag=__0x282d(294),Callback=function(_0xaf) _0xe5=_0xaf end});_0x281=1615 elseif _0x281 == 1598 then if 1 > 2 then local _0x23f=nil end;_0x281=1606 elseif _0x281 == 1713 then _0xdc:AddButton({Name=__0x282d(295),Callback=function() _0x108:SetOptions(_0x9f());_0x10a:SetOptions(_0x98());_0x6:Notify({Title=__0x282d(296),Content=__0x282d(297),Type=__0x282d(298),Duration=22 + 1 - 21}) end});_0x281=1718 elseif _0x281 == 1222 then _0xd8=function(_0xaf) _0xd5=_0xaf;local _0x1d0=math.random() * 0 end;_0x281=1226 elseif _0x281 == 2154 then _0x13c:AddButton({Name=__0x282d(299),Callback=function() local _0x13d=_0xff();if _0x13d then _0x2a(_0x13d);_0x6:Notify({Title=__0x282d(300),Content=__0x282d(301),Type=__0x282d(302),Duration=2 + 0}) else _0x6:Notify({Title=__0x282d(303),Content=__0x282d(304),Type=__0x282d(305),Duration=2 + 0}) end end});_0x281=2160 elseif _0x281 == 1627 then _0xdc:AddToggle({Name=__0x282d(306),Default=false,Flag=__0x282d(307),Callback=function(_0xaf) _0xeb=_0xaf end});_0x281=1635 elseif _0x281 == 438 then _0x58=function(_0x59) local _0x5a,_0x5b,_0x5c,_0x5d,_0x62,_0x29;local _0x267=4;while true do if _0x267 == 81 then return _0x5b elseif _0x267 == 68 then if _0x29 then for _0xe,_0x5e in ipairs(_0x29:GetChildren()) do if false then local _0x17b=nil end;_0x5d(_0x5e);if false then local _0x17c=nil end end end;_0x267=71 elseif _0x267 == 45 then _0x62=_0x12:FindFirstChild(__0x282d(308));_0x267=51 elseif _0x267 == 71 then table.sort(_0x5b,function(_0x63,_0x64) return _0x63.seedName < _0x64.seedName end);_0x267=81 elseif _0x267 == 4 then _0x5a={};_0x267=11 elseif _0x267 == 26 then _0x5b={};_0x267=32 elseif _0x267 == 18 then if _0x59 and #_0x59 > 1 - 1 then for _0xe,_0x1c in ipairs(_0x59) do _0x5a[_0x1c]=true;local _0x16f=(5 + 0) * 1 end;local _0x170=(51 + 0) * 1 end;_0x267=26 elseif _0x267 == 11 then if false then local _0x17d=nil end;_0x267=18 elseif _0x267 == 32 then _0x5c={};_0x267=38 elseif _0x267 == 57 then _0x29=_0x12.Character;_0x267=68 elseif _0x267 == 38 then _0x5d=function(_0x5e) local _0x5f,_0x60,_0x61;local _0x266=2;while true do if _0x266 == 89 then _0x5c[_0x61]=true;_0x266=96 elseif _0x266 == 2 then do local _0x174=521 end;_0x266=11 elseif _0x266 == 16 then _0x5f=_0x5e:GetAttribute(__0x282d(309));_0x266=22 elseif _0x266 == 33 then if next(_0x5a) and not _0x5a[_0x5f] then if false then local _0x172=nil end;return end;_0x266=39 elseif _0x266 == 11 then if not _0x5e:IsA(__0x282d(310)) then return end;_0x266=16 elseif _0x266 == 64 then _0x61=tostring(_0x5e);_0x266=72 elseif _0x266 == 52 then if _0x60 <= 1 - 1 or not _0x5e.Parent then local _0x173=(1 + 0) * 1;return end;_0x266=59 elseif _0x266 == 72 then if 1 > 2 then local _0x177=nil end;_0x266=80 elseif _0x266 == 96 then table.insert(_0x5b,{seedName=_0x5f,tool=_0x5e,count=_0x60});_0x266=103 elseif _0x266 == 44 then if false then local _0x175=nil end;_0x266=52 elseif _0x266 == 59 then do local _0x176=160 end;_0x266=64 elseif _0x266 == 80 then if _0x5c[_0x61] then return end;_0x266=89 elseif _0x266 == 103 then if 1 > 2 then local _0x178=nil end;_0x266=125 elseif _0x266 == 22 then if not _0x5f then if false then local _0x171=nil end;return end;_0x266=33 elseif _0x266 == 39 then _0x60=tonumber(_0x5e:GetAttribute(__0x282d(311))) or 2 - 1;_0x266=44 else break end end end;_0x267=45 elseif _0x267 == 51 then if _0x62 then if false then local _0x17a=nil end;for _0xe,_0x5e in ipairs(_0x62:GetChildren()) do local _0x179=math.random() * 0;_0x5d(_0x5e) end end;_0x267=57 else break end end end;_0x281=446 elseif _0x281 == 115 then _0x208=(49 + 0) * 1;_0x281=122 elseif _0x281 == 2136 then _0x13c:AddButton({Name=__0x282d(312),Primary=true,Callback=function() _0x27();_0x6:Notify({Title=__0x282d(313),Content=__0x282d(314),Type=__0x282d(315),Duration=2 + 0}) end});_0x281=2144 elseif _0x281 == 1569 then task.spawn(function() while true do task.wait(19 + 11);for _0x3e,_0xe in pairs(_0xed) do if not _0x3e.Parent then _0xed[_0x3e]=nil;_0xee[_0x3e]=nil;_0xef[_0x3e]=nil end end;local _0x71=tick();for _0x61,_0xbd in pairs(_0xf3) do if _0x71 - _0xbd > 30 * 2 + 0 then _0xf3[_0x61]=nil end end end end);_0x281=1580 elseif _0x281 == 851 then _0xb2:AddSlider({Name=__0x282d(316),Min=0.01,Max=2 - 1,Default=0.05,Suffix=__0x282d(317),Flag=__0x282d(318),Callback=function(_0xaf) _0xb9=_0xaf end});_0x281=855 elseif _0x281 == 396 then _0x44=function(_0x3e) local _0x45,_0x169,_0x3f;local _0x263=4;while true do if _0x263 == 38 then if not _0x3f then return _0x45 end;_0x263=44 elseif _0x263 == 32 then if false then local _0x16a=nil end;_0x263=38 elseif _0x263 == 26 then _0x3f=_0x3e and _0x3e:FindFirstChild(__0x282d(319));_0x263=32 elseif _0x263 == 50 then return _0x45 elseif _0x263 == 10 then _0x45={};_0x263=16 elseif _0x263 == 16 then _0x169=(79 + 0) * 1;_0x263=26 elseif _0x263 == 4 then do local _0x168=46 end;_0x263=10 elseif _0x263 == 44 then for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do local _0x2b=_0x2d(_0x40);if _0x2b then table.insert(_0x45,_0x2b) end end;_0x263=50 else break end end end;_0x281=402 elseif _0x281 == 661 then if 1 > 2 then local _0x21f=nil end;_0x281=667 elseif _0x281 == 1718 then _0xdc:AddToggle({Name=__0x282d(320),Default=true,Flag=__0x282d(321),Callback=function(_0xaf) _0xe7=_0xaf end});_0x281=1724 elseif _0x281 == 1019 then _0xbe:AddToggle({Name=__0x282d(322),Default=false,Flag=__0x282d(323),Callback=function(_0xaf) _0xbf=_0xaf;if _0xaf then _0xc6=1 - 1 end;_0x6:Notify({Title=__0x282d(324),Content=_0xaf and __0x282d(325) or __0x282d(326),Type=_0xaf and __0x282d(327) or __0x282d(328),Duration=8 + 11 - 17}) end});_0x281=1023 elseif _0x281 == 960 then if false then local _0x22a=nil end;_0x281=970 elseif _0x281 == 190 then _0x16=nil;_0x281=197 elseif _0x281 == 446 then if false then local _0x216=nil end;_0x281=451 elseif _0x281 == 1226 then _0x231=(76 + 0) * 1;_0x281=1233 elseif _0x281 == 274 then _0x21=function(_0x22,_0x23,_0x24) local _0x19;local _0x258=3;while true do if _0x258 == 8 then _0x19=pcall(function() _0x15.WateringCan.UseWateringCan:Fire(_0x22 - Vector3.new(1 - 1,0.3,1 - 1),_0x23,_0x24) end);_0x258=17 elseif _0x258 == 17 then return _0x19 elseif _0x258 == 3 then if not _0x22 or not _0x23 or not _0x24 then return false end;_0x258=8 else break end end end;_0x281=282 elseif _0x281 == 716 then if 1 > 2 then local _0x222=nil end;_0x281=723 elseif _0x281 == 1996 then if false then local _0x24f=nil end;_0x281=2005 elseif _0x281 == 407 then _0x4b=function(_0x4c,_0x4d,_0x4e) local _0x4f=_0x4c.Size;return _0x4c.CFrame:PointToWorldSpace(Vector3.new(_0x4d,_0x4f.Y / (1 + 1) + 0.15,_0x4e)) end;_0x281=417 elseif _0x281 == 171 then _0x13=_0x12.UserId;_0x281=178 elseif _0x281 == 633 then do local _0x21d=766 end;_0x281=641 elseif _0x281 == 998 then _0xc8=1 - 1;_0x281=1002 elseif _0x281 == 1822 then _0x111=true;_0x281=1829 elseif _0x281 == 1034 then _0xbe:AddToggle({Name=__0x282d(329),Default=true,Flag=__0x282d(330),Description=__0x282d(331),Callback=function(_0xaf) _0xc3=_0xaf end});_0x281=1040 elseif _0x281 == 205 then if 1 > 2 then local _0x20c=nil end;_0x281=214 elseif _0x281 == 521 then _0x7e=function(_0x3e) local _0x7f,_0x3f,_0x1a0;local _0x26f=1;while true do if _0x26f == 1 then _0x7f={};_0x26f=9 elseif _0x26f == 9 then _0x3f=_0x3e and _0x3e:FindFirstChild(__0x282d(332));_0x26f=16 elseif _0x26f == 33 then _0x1a0=math.random() * 0;_0x26f=36 elseif _0x26f == 36 then return _0x7f elseif _0x26f == 24 then for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do local _0x19f=math.random() * 0;if _0x40:GetAttribute(__0x282d(333)) == _0x13 then local _0x2b=_0x2d(_0x40);if _0x2b then table.insert(_0x7f,{model=_0x40,position=_0x2b,seedName=_0x40:GetAttribute(__0x282d(334)) or __0x282d(335),age=_0x40:GetAttribute(__0x282d(336)),maxAge=_0x40:GetAttribute(__0x282d(337))}) end;local _0x19e=math.random() * 0 end end;_0x26f=33 elseif _0x26f == 16 then if not _0x3f then return _0x7f end;_0x26f=24 else break end end end;_0x281=529 elseif _0x281 == 61 then _0x205=math.random() * 0;_0x281=65 elseif _0x281 == 1402 then _0xe9=false;_0x281=1411 elseif _0x281 == 11 then _0x0=__0x282d(338);_0x281=15 elseif _0x281 == 2206 then _0x141:AddParagraph({Title=__0x282d(339),Text=__0x282d(340)});_0x281=2215 elseif _0x281 == 768 then _0xb5=true;_0x281=773 elseif _0x281 == 1444 then _0xee={};_0x281=1453 elseif _0x281 == 841 then _0xb2:AddSlider({Name=__0x282d(341),Min=0.1,Max=4 + 6,Default=0.3,Suffix=__0x282d(342),Flag=__0x282d(343),Callback=function(_0xaf) _0xb4=_0xaf end});_0x281=851 elseif _0x281 == 1095 then if false then local _0x22e=nil end;_0x281=1102 elseif _0x281 == 150 then _0x11=game:GetService(__0x282d(344));_0x281=156 elseif _0x281 == 753 then _0xb3=false;_0x281=757 elseif _0x281 == 470 then _0x6a=function(_0x24) local _0x6b,_0x6c,_0x186;local _0x26a=4;while true do if _0x26a == 12 then if false then local _0x185=nil end;_0x26a=17 elseif _0x26a == 59 then task.wait(0.1);_0x26a=64 elseif _0x26a == 54 then pcall(function() _0x6b:EquipTool(_0x24) end);_0x26a=59 elseif _0x26a == 4 then if not _0x24 or not _0x24.Parent then return false end;_0x26a=12 elseif _0x26a == 17 then _0x6b=_0x12.Character and _0x12.Character:FindFirstChildOfClass(__0x282d(345));_0x26a=26 elseif _0x26a == 39 then _0x186=math.random() * 0;_0x26a=45 elseif _0x26a == 29 then _0x6c=_0x12.Character:FindFirstChildWhichIsA(__0x282d(346));_0x26a=39 elseif _0x26a == 64 then return _0x12.Character:FindFirstChildWhichIsA(__0x282d(347)) == _0x24 elseif _0x26a == 26 then if not _0x6b then return false end;_0x26a=29 elseif _0x26a == 45 then if _0x6c == _0x24 then local _0x184=math.random() * 0;return true end;_0x26a=54 else break end end end;_0x281=477 elseif _0x281 == 835 then _0xb2:AddToggle({Name=__0x282d(348),Default=true,Flag=__0x282d(349),Callback=function(_0xaf) _0xb7=_0xaf end});_0x281=841 elseif _0x281 == 891 then _0xb2:AddButton({Name=__0x282d(350),Callback=function() _0xbb:SetOptions(_0x98());_0x6:Notify({Title=__0x282d(351),Content=__0x282d(352),Type=__0x282d(353),Duration=2 + 0}) end});_0x281=897 elseif _0x281 == 221 then _0x18=function() local _0x19,_0x1a=pcall(function() return _0x15.NPCS.PreviewSellAll:Fire() end);return _0x19 and _0x1a or nil end;_0x281=229 elseif _0x281 == 872 then do local _0x227=673 end;_0x281=876 elseif _0x281 == 246 then _0x1e=function(_0x1c) if not _0x1c or _0x1c == "" then local _0x14b=(87 + 0) * 1;return end;pcall(function() _0x15.CrateShop.PurchaseCrate:Fire(_0x1c) end) end;_0x281=257 elseif _0x281 == 947 then _0xc2=2 + 0;_0x281=957 elseif _0x281 == 101 then _0x9={};_0x281=106 elseif _0x281 == 1368 then _0xe6=true;_0x281=1377 elseif _0x281 == 491 then _0x6e=function(_0x6f,_0x5f,_0x24,_0x70) local _0x71,_0x3e,_0x72,_0x18f,_0x73,_0x190;local _0x26b=2;while true do if _0x26b == 53 then if not _0x46(_0x6f.position,_0x44(_0x3e),_0x1f) then return false end;_0x26b=57 elseif _0x26b == 17 then _0x71=os.clock();_0x26b=23 elseif _0x26b == 122 then if false then local _0x191=nil end;_0x26b=131 elseif _0x26b == 108 then if not _0x73 then return false end;_0x26b=117 elseif _0x26b == 117 then for _0xe=2 - 1,1 + 5 do task.wait(0.05);if _0x6d(_0x3e) > _0x72 then return true end;if not _0x24.Parent then do local _0x18a=105 end;break end;local _0x18c=(33 + 0) * 1;local _0x60=tonumber(_0x24:GetAttribute(__0x282d(354))) or 1 - 1;if _0x60 <= 1 - 1 then if 1 > 2 then local _0x18b=nil end;return true end end;_0x26b=122 elseif _0x26b == 47 then if not _0x3e then return false end;_0x26b=53 elseif _0x26b == 57 then if _0x70 and not _0x6a(_0x24) then do local _0x189=34 end;return false end;_0x26b=65 elseif _0x26b == 95 then _0x20=os.clock();_0x26b=101 elseif _0x26b == 2 then if not _0x6f or not _0x6f.position or not _0x5f or not _0x24 then do local _0x187=733 end;return false end;_0x26b=11 elseif _0x26b == 23 then if _0x71 - _0x20 < 0.08 then task.wait(0.08 - (_0x71 - _0x20)) end;_0x26b=30 elseif _0x26b == 88 then _0x73=pcall(function() _0x15.Plant.PlantSeed:Fire(_0x6f.position,_0x5f,_0x24) end);_0x26b=95 elseif _0x26b == 30 then if false then local _0x18d=nil end;_0x26b=39 elseif _0x26b == 39 then _0x3e=_0x3b();_0x26b=47 elseif _0x26b == 75 then _0x72=_0x6d(_0x3e);_0x26b=82 elseif _0x26b == 65 then if 1 > 2 then local _0x18e=nil end;_0x26b=75 elseif _0x26b == 11 then if not _0x24.Parent then local _0x188=(95 + 0) * 1;return false end;_0x26b=17 elseif _0x26b == 131 then return false elseif _0x26b == 101 then _0x190=math.random() * 0;_0x26b=108 elseif _0x26b == 82 then _0x18f=math.random() * 0;_0x26b=88 else break end end end;_0x281=498 elseif _0x281 == 2122 then _0x13b=_0x6:AddTab({Name=__0x282d(355),Subtitle=__0x282d(356),Icon=__0x282d(357)});_0x281=2129 elseif _0x281 == 1075 then if false then local _0x22d=nil end;_0x281=1083 elseif _0x281 == 1538 then _0xf8=function(_0x2b,_0xf9) local _0xfa,_0xfb;local _0x27b=4;while true do if _0x27b == 43 then if 1 > 2 then local _0x1db=nil end;_0x27b=50 elseif _0x27b == 50 then return math.abs(_0xfa.X) <= _0xfb.X and math.abs(_0xfa.Y) <= _0xfb.Y and math.abs(_0xfa.Z) <= _0xfb.Z elseif _0x27b == 8 then if not _0xf9 or not _0xf9:IsA(__0x282d(358)) then return false end;_0x27b=17 elseif _0x27b == 24 then _0xfa=_0xf9.CFrame:PointToObjectSpace(_0x2b);_0x27b=30 elseif _0x27b == 4 then do local _0x1d8=832 end;_0x27b=8 elseif _0x27b == 17 then if false then local _0x1d9=nil end;_0x27b=24 elseif _0x27b == 30 then if 1 > 2 then local _0x1da=nil end;_0x27b=38 elseif _0x27b == 38 then _0xfb=_0xf9.Size / (17 + 18 - 33);_0x27b=43 else break end end end;_0x281=1543 elseif _0x281 == 904 then if 1 > 2 then local _0x228=nil end;_0x281=914 elseif _0x281 == 1488 then _0xf1=nil;_0x281=1496 elseif _0x281 == 2235 then print(__0x282d(359));_0x281=2256 elseif _0x281 == 1913 then _0x10d:AddToggle({Name=__0x282d(360),Default=true,Flag=__0x282d(361),Callback=function(_0xaf) _0x111=_0xaf end});_0x281=1922 elseif _0x281 == 1345 then _0xe4=true;_0x281=1354 elseif _0x281 == 456 then _0x68=function(_0x59) local _0x182,_0x69;local _0x269=3;while true do if _0x269 == 3 then _0x182=math.random() * 0;_0x269=12 elseif _0x269 == 12 then _0x69=1 - 1;_0x269=17 elseif _0x269 == 30 then return _0x69 elseif _0x269 == 17 then if 1 > 2 then local _0x183=nil end;_0x269=23 elseif _0x269 == 23 then for _0xe,_0x67 in ipairs(_0x58(_0x59)) do ttotal=_0x69 + tonumber(_0x67.tool:GetAttribute(__0x282d(362))) or 2 - 1 end;_0x269=30 else break end end end;_0x281=465 elseif _0x281 == 506 then _0x74=function(_0x75,_0x51,_0x76,_0x70,_0x77) local _0x3e,_0x5b,_0x52,_0x78,_0x79;local _0x26c=2;while true do if _0x26c == 25 then _0x5b=_0x58(_0x75);_0x26c=32 elseif _0x26c == 61 then _0x78=1 - 1;_0x26c=67 elseif _0x26c == 50 then if #_0x52 == 1 - 1 then return 1 - 1,__0x282d(363) end;_0x26c=61 elseif _0x26c == 67 then _0x79=2 - 1;_0x26c=75 elseif _0x26c == 40 then if #_0x5b == 1 - 1 then return 1 - 1,__0x282d(364) end;_0x26c=47 elseif _0x26c == 2 then do local _0x19a=482 end;_0x26c=8 elseif _0x26c == 8 then _0x3e=_0x3b();_0x26c=16 elseif _0x26c == 47 then _0x52=_0x50(_0x3e,_0x51);_0x26c=50 elseif _0x26c == 82 then return _0x78,_0x78 > 1 - 1 and __0x282d(365) or __0x282d(366) elseif _0x26c == 32 then if false then local _0x19b=nil end;_0x26c=40 elseif _0x26c == 16 then if not _0x3e then return 1 - 1,__0x282d(367) end;_0x26c=25 elseif _0x26c == 75 then for _0xe,_0x6f in ipairs(_0x52) do local _0x196=(74 + 0) * 1;if _0x77 and _0x78 >= _0x77 then do local _0x192=259 end;break end;local _0x67;if false then local _0x197=nil end;for _0xe=2 - 1,#_0x5b do local _0x7a=_0x5b[_0x79];_0x79=_0x79 % #_0x5b + (2 - 1);local _0x24=_0x7a.tool;if 1 > 2 then local _0x194=nil end;if _0x24 and _0x24.Parent then local _0x60=tonumber(_0x24:GetAttribute(__0x282d(368))) or 2 - 1;if _0x60 > 1 - 1 then local _0x193=math.random() * 0;_0x67=_0x7a;break end end end;do local _0x198=155 end;if not _0x67 then local _0x195=math.random() * 0;break end;if _0x6e(_0x6f,_0x67.seedName,_0x67.tool,_0x70) then pplanted=_0x78 + (2 - 1) end;task.wait(_0x76);do local _0x199=950 end end;_0x26c=82 else break end end end;_0x281=512 elseif _0x281 == 1527 then _0xf6=function(_0x3e) local _0x27a=1;while true do if _0x27a == 1 then do local _0x1d6=205 end;_0x27a=8 elseif _0x27a == 19 then if 1 > 2 then local _0x1d7=nil end;_0x27a=26 elseif _0x27a == 8 then for _0xe,_0xf7 in ipairs(_0x3e:GetDescendants()) do do local _0x1d4=916 end;if _0xf7.Name == __0x282d(369) and _0xf7:IsA(__0x282d(370)) then return _0xf7 end;local _0x1d5=(68 + 0) * 1 end;_0x27a=19 elseif _0x27a == 26 then return nil else break end end end;_0x281=1538 elseif _0x281 == 1269 then task.spawn(function() while true do if _0xd2 then local _0x24,_0x23=_0x7b();local _0x3e=_0x3b();if _0x24 and _0x3e then local _0xbc={};if _0xd5 == __0x282d(371) then for _0xe,_0x6f in ipairs(_0x50(_0x3e,12 + 27 - 36)) do table.insert(_0xbc,_0x6f.position) end else for _0xe,_0xda in ipairs(_0x7e(_0x3e)) do if _0xd5 == __0x282d(372) then if typeof(_0xda.age) == __0x282d(373) and typeof(_0xda.maxAge) == __0x282d(374) and _0xda.age >= _0xda.maxAge then table.insert(_0xbc,_0xda.position) end elseif _0xd6 then if typeof(_0xda.maxAge) ~= __0x282d(375) or typeof(_0xda.age) ~= __0x282d(376) or _0xda.age < _0xda.maxAge then table.insert(_0xbc,_0xda.position) end else table.insert(_0xbc,_0xda.position) end end end;for _0xe,_0x2b in ipairs(_0xbc) do if not _0xd2 then break end;if _0x21(_0x2b,_0x23,_0x24) then wwaterCount=_0xd7 + (2 - 1) end;task.wait(_0xd4) end end end;task.wait(_0xd3) end end);_0x281=1277 elseif _0x281 == 1724 then _0x243=math.random() * 0;_0x281=1730 elseif _0x281 == 680 then _0xae=3 + 2;_0x281=688 elseif _0x281 == 1391 then _0xe8=true;_0x281=1397 elseif _0x281 == 876 then _0xbb=_0xb2:AddDropdown({Name=__0x282d(377),Options=_0x98(),Default=__0x282d(378),MaxVisible=4 + 1,Searchable=true,Flag=__0x282d(379),Callback=_0xba});_0x281=884 elseif _0x281 == 1425 then _0xeb=false;_0x281=1433 elseif _0x281 == 296 then if 1 > 2 then local _0x20f=nil end;_0x281=306 elseif _0x281 == 1060 then _0x22c=(26 + 0) * 1;_0x281=1065 elseif _0x281 == 122 then _0xd=function() for _0xe,_0xf in ipairs(_0x9) do pcall(_0xf) end end;_0x281=130 elseif _0x281 == 316 then _0x2a=function(_0x2b) local _0x2c,_0x14e;local _0x25b=4;while true do if _0x25b == 4 then _0x2c=_0x28();_0x25b=12 elseif _0x25b == 18 then _0x14e=math.random() * 0;_0x25b=25 elseif _0x25b == 29 then if false then local _0x14f=nil end;_0x25b=38 elseif _0x25b == 38 then return true elseif _0x25b == 12 then if not _0x2c or not _0x2b then if 1 > 2 then local _0x14d=nil end;return false end;_0x25b=18 elseif _0x25b == 25 then _0x2c.CFrame=CFrame.new(_0x2b + Vector3.new(1 - 1,8 + 35 - 40,1 - 1));_0x25b=29 else break end end end;_0x281=325 elseif _0x281 == 2144 then _0x13c:AddButton({Name=__0x282d(380),Callback=function() pcall(function() _0x15.Garden.RequestGardens:Fire() end);_0x6:Notify({Title=__0x282d(381),Content=__0x282d(382),Type=__0x282d(383),Duration=1 + 1}) end});_0x281=2154 elseif _0x281 == 233 then _0x1b=function(_0x1c) local _0x256=1;while true do if _0x256 == 1 then if false then local _0x147=nil end;_0x256=12 elseif _0x256 == 18 then pcall(function() _0x15.SeedShop.PurchaseSeed:Fire(_0x1c) end);_0x256=31 elseif _0x256 == 12 then if not _0x1c or _0x1c == "" then return end;_0x256=18 else break end end end;_0x281=241 elseif _0x281 == 1580 then _0x103=function(_0x104) local _0x1eb,_0x61,_0x1ed,_0x105;local _0x27e=2;while true do if _0x27e == 16 then if not _0x36(_0x104.fruitName) then return false end;_0x27e=22 elseif _0x27e == 9 then _0x1eb=(67 + 0) * 1;_0x27e=16 elseif _0x27e == 22 then if 1 > 2 then local _0x1ec=nil end;_0x27e=29 elseif _0x27e == 67 then if false then local _0x1ee=nil end;_0x27e=71 elseif _0x27e == 2 then if not _0x104.model or not _0x104.model.Parent then return false end;_0x27e=9 elseif _0x27e == 87 then if _0x105 then _0xf3[_0x61]=tick();sstealCount=_0xec + (2 - 1);if 1 > 2 then local _0x1ea=nil end;if _0xe9 and not _0xeb then task.wait(_0xea);local _0x1e9=math.random() * 0;local _0x106=_0xff();if _0x106 then _0x2a(_0x106) end end end;_0x27e=95 elseif _0x27e == 46 then _0x1ed=(1 + 0) * 1;_0x27e=50 elseif _0x27e == 57 then _0x105=false;_0x27e=67 elseif _0x27e == 37 then _0x61=__0x282d(384):format(_0x104.ownerUserId,_0x104.plantId,_0x104.fruitId);_0x27e=46 elseif _0x27e == 29 then if _0xe6 and not _0x31() then if _0xe8 and _0xdd then local _0x1e6=math.random() * 0;_0xe8=false;_0x6:Notify({Title=__0x282d(385),Content=__0x282d(386),Type=__0x282d(387),Duration=1 + 2});task.delay(7 + 23,function() _0xe8=true end) end;return false end;_0x27e=37 elseif _0x27e == 71 then if _0xe9 and _0x104.position then do local _0x1e8=819 end;_0x2a(_0x104.position);task.wait(0.05) end;_0x27e=82 elseif _0x27e == 50 then if _0xf3[_0x61] and tick() - _0xf3[_0x61] < 1.5 then local _0x1e7=math.random() * 0;return false end;_0x27e=57 elseif _0x27e == 82 then _0x105=_0x8d(_0x104.ownerUserId,_0x104.plantId,_0x104.fruitId);_0x27e=87 elseif _0x27e == 95 then return _0x105 else break end end end;_0x281=1585 elseif _0x281 == 1521 then _0xf4=function(_0x3e) local _0x1d3,_0x3f;local _0x279=1;while true do if _0x279 == 32 then for _0xe,_0xda in ipairs(_0x3f:GetChildren()) do local _0xf5=_0xda:GetAttribute(__0x282d(388));if _0xf5 then local _0x1d1=(46 + 0) * 1;_0xee[_0x3e]=_0xf5;local _0x1d2=(61 + 0) * 1;return _0xf5 end end;_0x279=40 elseif _0x279 == 26 then if not _0x3f then return nil end;_0x279=32 elseif _0x279 == 15 then _0x3f=_0x3e:FindFirstChild(__0x282d(389));_0x279=26 elseif _0x279 == 40 then return nil elseif _0x279 == 1 then if _0xee[_0x3e] then return _0xee[_0x3e] end;_0x279=11 elseif _0x279 == 11 then _0x1d3=math.random() * 0;_0x279=15 else break end end end;_0x281=1527 elseif _0x281 == 229 then if 1 > 2 then local _0x20d=nil end;_0x281=233 elseif _0x281 == 570 then if 1 > 2 then local _0x21b=nil end;_0x281=578 elseif _0x281 == 607 then _0xa2=function(_0xa3) local _0xa4,_0x5c,_0xa5;local _0x278=5;while true do if _0x278 == 53 then return _0xa4 elseif _0x278 == 47 then table.sort(_0xa4);_0x278=53 elseif _0x278 == 19 then _0x5c={};_0x278=24 elseif _0x278 == 24 then _0xa5=_0x14:FindFirstChild(__0x282d(390));_0x278=33 elseif _0x278 == 5 then _0xa4={};_0x278=12 elseif _0x278 == 12 then if 1 > 2 then local _0x1cc=nil end;_0x278=19 elseif _0x278 == 33 then if _0xa5 then local _0xa6=_0xa5:FindFirstChild(_0xa3);local _0x1cb=(10 + 0) * 1;if _0xa6 then local _0x1ca=math.random() * 0;local _0xa7=_0xa6:FindFirstChild(__0x282d(391));if _0xa7 then do local _0x1c9=754 end;for _0xe,_0x5e in ipairs(_0xa7:GetChildren()) do if not _0x5c[_0x5e.Name] then _0x5c[_0x5e.Name]=true;table.insert(_0xa4,_0x5e.Name) end end end end end;_0x278=37 elseif _0x278 == 37 then if 1 > 2 then local _0x1cd=nil end;_0x278=47 else break end end end;_0x281=610 elseif _0x281 == 15 then _0x1,_0x2=pcall(game.HttpGet,game,_0x0);_0x281=26 elseif _0x281 == 1124 then _0xbe:AddButton({Name=__0x282d(392),Primary=true,Callback=function() if _0xc4 then local _0x3e=_0x3b();local _0x42=_0x3e and _0x41(_0x3e);if _0x42 and _0x42[2 - 1] then _0x2a(_0x42[2 - 1].Position);task.wait(0.2) end end;local _0x78,_0xcb=_0x74(_0xc9(),_0xc2,_0xc1,_0xc3,nil);pplantPlantedCount=_0xc6 + _0x78;local _0xcf,_0xd0=_0xca(_0x78,_0xcb);_0x6:Notify({Title=__0x282d(393),Content=_0xcf,Type=_0xd0,Duration=2 + 1}) end});_0x281=1130 elseif _0x281 == 26 then if not _0x1 then error(__0x282d(394) .. tostring(_0x2),1 - 1) end;_0x281=29 elseif _0x281 == 2181 then _0x140=_0x6:AddTab({Name=__0x282d(395),Subtitle=__0x282d(396),Icon=__0x282d(397)});_0x281=2187 elseif _0x281 == 1144 then _0xd2=false;_0x281=1153 elseif _0x281 == 1786 then _0x246=math.random() * 0;_0x281=1793 elseif _0x281 == 796 then _0xb7=true;_0x281=800 elseif _0x281 == 144 then do local _0x20a=187 end;_0x281=150 elseif _0x281 == 1433 then _0xec=1 - 1;_0x281=1438 elseif _0x281 == 365 then if false then local _0x213=nil end;_0x281=372 elseif _0x281 == 914 then _0xbe=_0xab:AddSubTab(__0x282d(398));_0x281=918 elseif _0x281 == 1880 then _0x117=function() local _0x118,_0x119,_0x1f6,_0x11a;local _0x27f=3;while true do if _0x27f == 25 then _0x119=workspace:FindFirstChild(__0x282d(399));_0x27f=30 elseif _0x27f == 30 then do local _0x1f5=267 end;_0x27f=36 elseif _0x27f == 9 then _0x118={};_0x27f=19 elseif _0x27f == 51 then _0x11a=_0x119:FindFirstChild(__0x282d(400));_0x27f=57 elseif _0x27f == 19 then if false then local _0x1f4=nil end;_0x27f=25 elseif _0x27f == 36 then if not _0x119 then if false then local _0x1f1=nil end;return _0x118 end;_0x27f=45 elseif _0x27f == 65 then return _0x118 elseif _0x27f == 3 then do local _0x1f3=848 end;_0x27f=9 elseif _0x27f == 57 then if _0x11a then for _0xe,_0x43 in ipairs(_0x11a:GetChildren()) do if _0x43.Parent then local _0x2b=_0x43:IsA(__0x282d(401)) and _0x43.Position or _0x2d(_0x43);local _0x11b=_0x43:GetAttribute(__0x282d(402)) or _0x43:GetAttribute(__0x282d(403)) and __0x282d(404) or _0x43:GetAttribute(__0x282d(405)) and __0x282d(406) or _0x43:GetAttribute(__0x282d(407)) and __0x282d(408) or __0x282d(409);table.insert(_0x118,{id=_0x43:GetFullName(),part=_0x43,position=_0x2b,name=_0x11b}) end;local _0x1f2=math.random() * 0 end end;_0x27f=65 elseif _0x27f == 45 then _0x1f6=math.random() * 0;_0x27f=51 else break end end end;_0x281=1887 elseif _0x281 == 599 then _0x21c=(21 + 0) * 1;_0x281=607 elseif _0x281 == 1772 then task.spawn(function() while true do if _0xdd then local _0xbc=_0x8f({skipMy=true,skipBlocked=true,skipEmpty=_0xe3,fruitFilter=_0xe0,mutationFilter=_0xe1,ripeOnly=_0xe5,smartSort=_0xe4});local _0x10c=false;for _0xe,_0x104 in ipairs(_0xbc) do if not _0xdd then break end;if _0x104.isMine then continue end;if _0x103(_0x104) then if _0xe9 then _0x10c=true end end;task.wait(_0xdf) end;if _0xe9 and _0xeb and _0x10c then task.wait(_0xea);local _0x106=_0xff();if _0x106 then _0x2a(_0x106) end end end;task.wait(_0xde) end end);_0x281=1780 elseif _0x281 == 1508 then _0xf3={};_0x281=1516 elseif _0x281 == 1829 then _0x112=true;_0x281=1839 elseif _0x281 == 417 then _0x214=(15 + 0) * 1;_0x281=422 elseif _0x281 == 746 then _0xb2=_0xab:AddSubTab(__0x282d(410));_0x281=753 elseif _0x281 == 1969 then do local _0x24d=836 end;_0x281=1978 elseif _0x281 == 362 then _0x36=function(_0x1c) local _0x158;local _0x25f=3;while true do if _0x25f == 3 then if not _0x1c then return true end;_0x25f=10 elseif _0x25f == 10 then if _0x16 and _0x16.IsPlantStealable then do local _0x157=26 end;return _0x16.IsPlantStealable(_0x1c) end;_0x25f=19 elseif _0x25f == 24 then return true elseif _0x25f == 19 then _0x158=math.random() * 0;_0x25f=24 else break end end end;_0x281=365 elseif _0x281 == 1549 then _0xff=function() local _0xfe;local _0x27d=5;while true do if _0x27d == 68 then return nil elseif _0x27d == 58 then for _0xe,_0xf7 in ipairs(_0xf0:GetDescendants()) do if _0xf7:IsA(__0x282d(411)) then _0xef[_0xf0]=_0xf7.Position;if false then local _0x1e4=nil end;_0xf1=_0xf7.Position;return _0xf1 end end;_0x27d=68 elseif _0x27d == 38 then if _0xef[_0xf0] then _0xf1=_0xef[_0xf0];return _0xf1 end;_0x27d=43 elseif _0x27d == 26 then if not _0xf0 then if false then local _0x1e1=nil end;_0xf1=nil;return nil end;_0x27d=30 elseif _0x27d == 12 then _0xf0=_0x3b();_0x27d=15 elseif _0x27d == 53 then if _0xfe then if 1 > 2 then local _0x1e2=nil end;_0xef[_0xf0]=_0xfe.Position;if false then local _0x1e3=nil end;_0xf1=_0xfe.Position;return _0xf1 end;_0x27d=58 elseif _0x27d == 15 then _0xf2=tick();_0x27d=26 elseif _0x27d == 5 then if _0xf1 and tick() - _0xf2 < 12 + 30 - 32 then if 1 > 2 then local _0x1e0=nil end;return _0xf1 end;_0x27d=12 elseif _0x27d == 43 then _0xfe=_0xf6(_0xf0);_0x27d=53 elseif _0x27d == 30 then if false then local _0x1e5=nil end;_0x27d=38 else break end end end;_0x281=1556 elseif _0x281 == 2047 then _0x135=_0x121:AddSubTab(__0x282d(412));_0x281=2056 elseif _0x281 == 292 then _0x27=function() pcall(function() _0x15.Actions.ExpandGarden:Fire() end) end;_0x281=296 elseif _0x281 == 1635 then _0xdc:AddSlider({Name=__0x282d(413),Min=0.05,Max=1 + 1,Default=0.1,Suffix=__0x282d(414),Flag=__0x282d(415),Callback=function(_0xaf) _0xea=_0xaf end});_0x281=1643 elseif _0x281 == 130 then if false then local _0x209=nil end;_0x281=135 elseif _0x281 == 738 then task.spawn(function() while true do if _0xad then _0x17() end;task.wait(_0xae) end end);_0x281=746 elseif _0x281 == 641 then _0xab=_0x6:AddTab({Name=__0x282d(416),Subtitle=__0x282d(417),Icon=__0x282d(418)});_0x281=648 elseif _0x281 == 2187 then _0x254=math.random() * 0;_0x281=2193 elseif _0x281 == 1163 then _0xd5=__0x282d(419);_0x281=1172 elseif _0x281 == 554 then _0x8a=function(_0x8b,_0x8c) local _0x19;local _0x273=1;while true do if _0x273 == 1 then if not _0x8b then do local _0x1a8=561 end;return false end;_0x273=8 elseif _0x273 == 8 then _0x19=pcall(function() _0x15.Garden.CollectFruit:Fire(_0x8b,_0x8c or "") end);_0x273=17 elseif _0x273 == 17 then return _0x19 else break end end end;_0x281=561 elseif _0x281 == 372 then _0x37=function(_0x38) local _0x39,_0x15d;local _0x260=3;while true do if _0x260 == 22 then do local _0x15c=836 end;_0x260=29 elseif _0x260 == 11 then if not _0x39 then return nil end;_0x260=18 elseif _0x260 == 37 then _0x15d=(99 + 0) * 1;_0x260=43 elseif _0x260 == 3 then _0x39=_0x38.Parent;_0x260=11 elseif _0x260 == 67 then return nil elseif _0x260 == 58 then do local _0x15e=633 end;_0x260=67 elseif _0x260 == 18 then if _0x39:IsA(__0x282d(420)) then return _0x39.Position end;_0x260=22 elseif _0x260 == 29 then if _0x39:IsA(__0x282d(421)) then do local _0x159=554 end;return _0x2d(_0x39) end;_0x260=37 elseif _0x260 == 54 then for _0xe,_0x3a in ipairs(_0x39:GetChildren()) do local _0x15b=math.random() * 0;if _0x3a:IsA(__0x282d(422)) then if false then local _0x15a=nil end;return _0x3a.Position end end;_0x260=58 elseif _0x260 == 43 then if _0x39:IsA(__0x282d(423)) then return _0x39.WorldPosition end;_0x260=54 else break end end end;_0x281=383 elseif _0x281 == 1241 then if false then local _0x232=nil end;_0x281=1248 elseif _0x281 == 1983 then do local _0x24e=722 end;_0x281=1992 elseif _0x281 == 40 then _0x3,_0x4=loadstring(_0x2);_0x281=44 elseif _0x281 == 583 then _0x98=function() local _0x99,_0x5c,_0x9a,_0x9b,_0x3d;local _0x276=1;while true do if _0x276 == 68 then return _0x99 elseif _0x276 == 38 then if _0x9b then local _0x9c=_0x9b:FindFirstChild(__0x282d(424));local _0x1bd=math.random() * 0;if _0x9c then for _0xe,_0x9d in ipairs(_0x9c:GetChildren()) do _0x9a(_0x9d.Name) end end;do local _0x1be=341 end end;_0x276=47 elseif _0x276 == 18 then _0x5c={All=true};_0x276=24 elseif _0x276 == 50 then if _0x3d then for _0xe,_0x3e in ipairs(_0x3d:GetChildren()) do local _0x1c0=math.random() * 0;local _0x3f=_0x3e:FindFirstChild(__0x282d(425));if _0x3f then for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do _0x9a(_0x40:GetAttribute(__0x282d(426)) or _0x40:GetAttribute(__0x282d(427)));local _0x9e=_0x40:FindFirstChild(__0x282d(428));if _0x9e then for _0xe,_0x97 in ipairs(_0x9e:GetChildren()) do _0x9a(_0x97:GetAttribute(__0x282d(429)) or _0x97:GetAttribute(__0x282d(430)));local _0x1bf=(76 + 0) * 1 end end end end end end;_0x276=58 elseif _0x276 == 24 then _0x9a=function(_0x1c) local _0x1bc=math.random() * 0;if _0x1c and not _0x5c[_0x1c] then _0x5c[_0x1c]=true;table.insert(_0x99,_0x1c) end end;_0x276=31 elseif _0x276 == 12 then if 1 > 2 then local _0x1c1=nil end;_0x276=18 elseif _0x276 == 58 then table.sort(_0x99,function(_0x63,_0x64) if _0x63 == __0x282d(431) then return true end;if _0x64 == __0x282d(432) then return false end;return _0x63 < _0x64 end);_0x276=68 elseif _0x276 == 1 then _0x99={__0x282d(433)};_0x276=12 elseif _0x276 == 31 then _0x9b=_0x14:FindFirstChild(__0x282d(434));_0x276=38 elseif _0x276 == 47 then _0x3d=workspace:FindFirstChild(__0x282d(435));_0x276=50 else break end end end;_0x281=592 elseif _0x281 == 2215 then _0x142=_0x141:AddInput({Name=__0x282d(436),Placeholder=__0x282d(437),Default=_0x8,Callback=function(_0xbd) if _0xbd and _0xbd ~= "" then _0x8=_0xbd end end});_0x281=2220 elseif _0x281 == 498 then if 1 > 2 then local _0x219=nil end;_0x281=506 elseif _0x281 == 1265 then _0xd1:AddButton({Name=__0x282d(438),Primary=true,Callback=function() local _0x24,_0x23=_0x7b();if not _0x24 then _0x6:Notify({Title=__0x282d(439),Content=__0x282d(440),Type=__0x282d(441),Duration=3 + 0});return end;local _0x3e=_0x3b();if not _0x3e then _0x6:Notify({Title=__0x282d(442),Content=__0x282d(443),Type=__0x282d(444),Duration=1 + 1});return end;local _0xbc={};if _0xd5 == __0x282d(445) then for _0xe,_0x6f in ipairs(_0x50(_0x3e,9 + 32 - 38)) do table.insert(_0xbc,_0x6f.position) end else for _0xe,_0xda in ipairs(_0x7e(_0x3e)) do if _0xd5 == __0x282d(446) then if typeof(_0xda.age) == __0x282d(447) and typeof(_0xda.maxAge) == __0x282d(448) and _0xda.age >= _0xda.maxAge then table.insert(_0xbc,_0xda.position) end elseif _0xd6 then if typeof(_0xda.maxAge) ~= __0x282d(449) or typeof(_0xda.age) ~= __0x282d(450) or _0xda.age < _0xda.maxAge then table.insert(_0xbc,_0xda.position) end else table.insert(_0xbc,_0xda.position) end end end;local _0xdb=1 - 1;for _0xe,_0x2b in ipairs(_0xbc) do if _0x21(_0x2b,_0x23,_0x24) then wwatered=_0xdb + (2 - 1) end;task.wait(_0xd4) end;_0x6:Notify({Title=__0x282d(451),Content=__0x282d(452):format(_0xdb),Type=_0xdb > 1 - 1 and __0x282d(453) or __0x282d(454),Duration=1 + 2}) end});_0x281=1269 elseif _0x281 == 465 then if 1 > 2 then local _0x217=nil end;_0x281=470 elseif _0x281 == 1185 then if 1 > 2 then local _0x230=nil end;_0x281=1193 elseif _0x281 == 550 then _0x88=function(_0x89) local _0x1a4;local _0x272=3;while true do if _0x272 == 9 then if _0x89 == __0x282d(455) then return 11 * 9 + 1 end;_0x272=19 elseif _0x272 == 59 then if _0x89 == __0x282d(456) then return 60 + 12 - 22 end;_0x272=67 elseif _0x272 == 25 then if _0x89 == __0x282d(457) then if 1 > 2 then local _0x1a3=nil end;return 11 * 7 + 3 end;_0x272=30 elseif _0x272 == 30 then if 1 > 2 then local _0x1a6=nil end;_0x272=38 elseif _0x272 == 67 then if _0x89 == __0x282d(458) or _0x89 == nil then return 2 - 1 end;_0x272=72 elseif _0x272 == 19 then if false then local _0x1a5=nil end;_0x272=25 elseif _0x272 == 38 then if _0x89 == __0x282d(459) then return 32 + 75 - 37 end;_0x272=44 elseif _0x272 == 72 then return 5 * 5 + 0 elseif _0x272 == 44 then if _0x89 == __0x282d(460) then return 15 * 4 + 0 end;_0x272=52 elseif _0x272 == 52 then do local _0x1a7=702 end;_0x272=59 elseif _0x272 == 3 then _0x1a4=(6 + 0) * 1;_0x272=9 else break end end end;_0x281=554 elseif _0x281 == 1083 then _0xcc=function(_0xcd) _0xc5=_0xcd or {} end;_0x281=1087 elseif _0x281 == 310 then if false then local _0x210=nil end;_0x281=316 elseif _0x281 == 1839 then _0x113=true;_0x281=1846 elseif _0x281 == 1671 then _0x108=_0xdc:AddDropdown({Name=__0x282d(461),Options=_0x9f(),Default=__0x282d(462),MaxVisible=12 + 14 - 21,Searchable=true,Flag=__0x282d(463),Callback=_0x107});_0x281=1675 elseif _0x281 == 1615 then _0x240=math.random() * 0;_0x281=1621 elseif _0x281 == 1992 then _0x121=_0x6:AddTab({Name=__0x282d(464),Subtitle=__0x282d(465),Icon=__0x282d(466)});_0x281=1996 elseif _0x281 == 1944 then _0x11d=workspace:FindFirstChild(__0x282d(467));_0x281=1949 elseif _0x281 == 1040 then _0xbe:AddToggle({Name=__0x282d(468),Default=false,Flag=__0x282d(469),Description=__0x282d(470),Callback=function(_0xaf) _0xc4=_0xaf end});_0x281=1046 elseif _0x281 == 710 then _0xac:AddButton({Name=__0x282d(471),Primary=true,Callback=function() _0x17();_0x6:Notify({Title=__0x282d(472),Content=__0x282d(473),Type=__0x282d(474),Duration=24 + 18 - 40}) end});_0x281=716 elseif _0x281 == 941 then _0xc1=0.15;_0x281=947 elseif _0x281 == 1233 then _0xd9=_0xd1:AddDropdown({Name=__0x282d(475),Options={__0x282d(476),__0x282d(477),__0x282d(478)},Default=__0x282d(479),MaxVisible=1 * 2 + 1,Flag=__0x282d(480),Callback=_0xd8});_0x281=1241 elseif _0x281 == 422 then _0x50=function(_0x3e,_0x51) local _0x52,_0x45;local _0x265=5;while true do if _0x265 == 22 then for _0xe,_0x53 in ipairs(_0x41(_0x3e)) do local _0x4f=_0x53.Size;local _0x54=math.max(_0x4f.X / (1 * 2 + 0) - 1.5,0.5);local _0x55=math.max(_0x4f.Z / (4 + 32 - 34) - 1.5,0.5);for _0x56=-_0x54,_0x54,_0x51 do for _0x57=-_0x55,_0x55,_0x51 do local _0x16d=(43 + 0) * 1;local _0x2b=_0x4b(_0x53,_0x56,_0x57);if 1 > 2 then local _0x16e=nil end;if _0x46(_0x2b,_0x45,_0x1f) then table.insert(_0x52,{position=_0x2b,area=_0x53});table.insert(_0x45,_0x2b) end end end end;_0x265=33 elseif _0x265 == 19 then _0x45=_0x44(_0x3e);_0x265=22 elseif _0x265 == 5 then _0x51=math.max(_0x51 or 33 + 4 - 35,_0x1f + 0.5);_0x265=9 elseif _0x265 == 33 then return _0x52 elseif _0x265 == 9 then _0x52={};_0x265=19 else break end end end;_0x281=429 elseif _0x281 == 957 then _0xc3=true;_0x281=960 elseif _0x281 == 2088 then _0x135:AddSlider({Name=__0x282d(481),Min=0.2,Max=10 + 26 - 26,Default=2 - 1,Suffix=__0x282d(482),Flag=__0x282d(483),Callback=function(_0xaf) _0x137=_0xaf end});_0x281=2097 elseif _0x281 == 970 then _0xc4=false;_0x281=974 elseif _0x281 == 578 then _0x8f=function(_0x90) local _0x7f,_0x3d,_0x91;local _0x275=3;while true do if _0x275 == 47 then if not _0x3d then return _0x7f end;_0x275=53 elseif _0x275 == 74 then if _0x90.smartSort then table.sort(_0x7f,function(_0x63,_0x64) return _0x63.priority > _0x64.priority end) end;_0x275=82 elseif _0x275 == 82 then return _0x7f elseif _0x275 == 36 then do local _0x1ba=745 end;_0x275=47 elseif _0x275 == 3 then do local _0x1b8=284 end;_0x275=11 elseif _0x275 == 53 then _0x91=_0x3b();_0x275=57 elseif _0x275 == 29 then _0x3d=workspace:FindFirstChild(__0x282d(484));_0x275=36 elseif _0x275 == 22 then if false then local _0x1b9=nil end;_0x275=29 elseif _0x275 == 11 then _0x90=_0x90 or {};_0x275=17 elseif _0x275 == 17 then _0x7f={};_0x275=22 elseif _0x275 == 57 then for _0xe,_0x3e in ipairs(_0x3d:GetChildren()) do if false then local _0x1b6=nil end;if _0x90.onlyMy and _0x3e ~= _0x91 then if false then local _0x1aa=nil end;continue end;if _0x90.skipMy and _0x3e == _0x91 then local _0x1ab=(53 + 0) * 1;continue end;if _0x90.skipBlocked and _0xed and _0xed[_0x3e] then continue end;local _0x3f=_0x3e:FindFirstChild(__0x282d(485));if not _0x3f then continue end;if _0x90.skipEmpty and #_0x3f:GetChildren() == 1 - 1 then if 1 > 2 then local _0x1ac=nil end;continue end;if 1 > 2 then local _0x1b7=nil end;for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do do local _0x1b3=966 end;local _0x92=tonumber(_0x40:GetAttribute(__0x282d(486)));local _0x8b=_0x40:GetAttribute(__0x282d(487));if not _0x92 or typeof(_0x8b) ~= __0x282d(488) then continue end;local _0x5f=_0x40:GetAttribute(__0x282d(489)) or _0x40:GetAttribute(__0x282d(490)) or __0x282d(491);local function _0x93(_0x2e,_0x8c) do local _0x1af=336 end;if _0x90.ripeOnly and not _0x33(_0x2e) then return end;local _0x94=_0x2e:GetAttribute(__0x282d(492)) or _0x2e:GetAttribute(__0x282d(493)) or _0x5f;local _0x95=_0x2e:GetAttribute(__0x282d(494)) or _0x2e:GetAttribute(__0x282d(495)) or __0x282d(496);do local _0x1b0=494 end;if _0x90.fruitFilter and _0x90.fruitFilter ~= __0x282d(497) and _0x94 ~= _0x90.fruitFilter then return end;local _0x1b1=math.random() * 0;if _0x90.mutationFilter and _0x90.mutationFilter ~= __0x282d(498) then if false then local _0x1ae=nil end;if _0x90.mutationFilter == __0x282d(499) then if _0x95 ~= __0x282d(500) and _0x95 ~= nil then return end;do local _0x1ad=802 end elseif tostring(_0x95) ~= _0x90.mutationFilter then return end end;table.insert(_0x7f,{ownerUserId=_0x92,plantId=_0x8b,fruitId=_0x8c or "",fruitName=_0x94,mutation=tostring(_0x95),plot=_0x3e,model=_0x2e,position=_0x2d(_0x2e),isMine=_0x92 == _0x13,priority=_0x88(_0x95)}) end;if 1 > 2 then local _0x1b4=nil end;local _0x96=_0x40:FindFirstChild(__0x282d(501));if 1 > 2 then local _0x1b5=nil end;if _0x96 and #_0x96:GetChildren() > 1 - 1 then local _0x1b2=(24 + 0) * 1;for _0xe,_0x97 in ipairs(_0x96:GetChildren()) do local _0x8c=_0x97:GetAttribute(__0x282d(502));if typeof(_0x8c) == __0x282d(503) then _0x93(_0x97,_0x8c) end end elseif _0x90.includeWholePlants and _0x92 == _0x13 then _0x93(_0x40,"") end end end;_0x275=67 elseif _0x275 == 67 then do local _0x1bb=489 end;_0x275=74 else break end end end;_0x281=583 elseif _0x281 == 383 then _0x3b=function() local _0x3c,_0x3d;local _0x261=4;while true do if _0x261 == 10 then if _0x3c then if 1 > 2 then local _0x160=nil end;local _0x3d=workspace:FindFirstChild(__0x282d(504));if _0x3d then local _0x15f=math.random() * 0;local _0x3e=_0x3d:FindFirstChild(__0x282d(505) .. tostring(_0x3c));if _0x3e then return _0x3e end end end;_0x261=18 elseif _0x261 == 51 then if 1 > 2 then local _0x165=nil end;_0x261=57 elseif _0x261 == 24 then _0x3d=workspace:FindFirstChild(__0x282d(506));_0x261=30 elseif _0x261 == 18 then do local _0x163=553 end;_0x261=24 elseif _0x261 == 43 then for _0xe,_0x3e in ipairs(_0x3d:GetChildren()) do local _0x3f=_0x3e:FindFirstChild(__0x282d(507));if _0x3f then if false then local _0x162=nil end;for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do if _0x40:GetAttribute(__0x282d(508)) == _0x13 then return _0x3e end end end end;_0x261=51 elseif _0x261 == 38 then if false then local _0x164=nil end;_0x261=43 elseif _0x261 == 4 then _0x3c=_0x12:GetAttribute(__0x282d(509));_0x261=10 elseif _0x261 == 30 then if not _0x3d then local _0x161=math.random() * 0;return nil end;_0x261=38 elseif _0x261 == 57 then return nil else break end end end;_0x281=387 elseif _0x281 == 1307 then _0xdf=0.03;_0x281=1311 elseif _0x281 == 829 then _0xb2:AddToggle({Name=__0x282d(510),Default=true,Flag=__0x282d(511),Callback=function(_0xaf) _0xb8=_0xaf end});_0x281=835 elseif _0x281 == 1956 then if _0x11d then local _0x11e=_0x11d:FindFirstChild(__0x282d(512));if _0x11e then _0x11e.ChildAdded:Connect(function(_0x11f) if _0x10e and _0x112 then _0x6:Notify({Title=__0x282d(513),Content=_0x11f:GetAttribute(__0x282d(514)) or __0x282d(515),Type=__0x282d(516),Duration=27 + 1 - 24}) end end) end;do local _0x1f7=112 end end;_0x281=1965 elseif _0x281 == 88 then if 1 > 2 then local _0x207=nil end;_0x281=93 elseif _0x281 == 1871 then _0x116={};_0x281=1880 elseif _0x281 == 1816 then _0x110=0.1;_0x281=1822 elseif _0x281 == 1768 then _0x245=math.random() * 0;_0x281=1772 elseif _0x281 == 2202 then if false then local _0x255=nil end;_0x281=2206 elseif _0x281 == 1338 then _0x234=(63 + 0) * 1;_0x281=1345 elseif _0x281 == 267 then if false then local _0x20e=nil end;_0x281=274 elseif _0x281 == 3 then _0x204=(70 + 0) * 1;_0x281=11 elseif _0x281 == 1286 then _0xdc=_0xab:AddSubTab(__0x282d(517));_0x281=1292 elseif _0x281 == 592 then _0x9f=function() local _0xa0,_0x5c,_0x3d;local _0x277=3;while true do if _0x277 == 23 then if not _0x3d then do local _0x1c2=944 end;return _0xa0 end;_0x277=32 elseif _0x277 == 36 then return _0xa0 elseif _0x277 == 32 then for _0xe,_0x3e in ipairs(_0x3d:GetChildren()) do local _0x3f=_0x3e:FindFirstChild(__0x282d(518));if _0x3f then local _0x1c6=(68 + 0) * 1;for _0xe,_0x40 in ipairs(_0x3f:GetChildren()) do local _0x1c4=math.random() * 0;local _0x9e=_0x40:FindFirstChild(__0x282d(519));if 1 > 2 then local _0x1c5=nil end;if _0x9e then for _0xe,_0x97 in ipairs(_0x9e:GetChildren()) do local _0xa1=_0x97:GetAttribute(__0x282d(520)) or _0x97:GetAttribute(__0x282d(521));if _0xa1 and not _0x5c[tostring(_0xa1)] then local _0x1c3=math.random() * 0;_0x5c[tostring(_0xa1)]=true;table.insert(_0xa0,tostring(_0xa1)) end end end end;if 1 > 2 then local _0x1c7=nil end end;if 1 > 2 then local _0x1c8=nil end end;_0x277=36 elseif _0x277 == 17 then _0x3d=workspace:FindFirstChild(__0x282d(522));_0x277=23 elseif _0x277 == 3 then _0xa0={__0x282d(523),__0x282d(524)};_0x277=8 elseif _0x277 == 8 then _0x5c={All=true,None=true};_0x277=17 else break end end end;_0x281=599 elseif _0x281 == 1643 then _0xdc:AddSlider({Name=__0x282d(525),Min=0.1,Max=2 * 4 + 2,Default=0.2,Suffix=__0x282d(526),Flag=__0x282d(527),Callback=function(_0xaf) _0xde=_0xaf end});_0x281=1647 elseif _0x281 == 1438 then _0xed={};_0x281=1444 elseif _0x281 == 1417 then _0x238=(51 + 0) * 1;_0x281=1425 elseif _0x281 == 2075 then _0x139=1 - 1;_0x281=2082 elseif _0x281 == 263 then _0x20=1 - 1;_0x281=267 else break end end
+-- ══════════════════════════════════════════════════════════════════════════════
+-- MSS HUB v30 - GAG2 (Decompiled Networking API)
+-- Game: Wachsen Sie einen Garten 2 | PlaceId 97598239454123
+-- Requires MSS UI v2.3+ for config saving (gracefully degrades on older builds)
+-- ══════════════════════════════════════════════════════════════════════════════
+
+local MSS_URL = "https://raw.githubusercontent.com/leleo2083-eng/SolisUILibary/refs/heads/main/MSS.lua"
+
+local okFetch, source = pcall(game.HttpGet, game, MSS_URL)
+if not okFetch then
+    error("[MSS HUB] Failed to download the UI library: " .. tostring(source), 0)
+end
+if type(source) ~= "string" or #source < 10000 then
+    error(("[MSS HUB] The hosted MSS.lua looks incomplete (%d bytes). Re-upload the full library to GitHub.")
+        :format(type(source) == "string" and #source or -1), 0)
+end
+
+local chunk, compileErr = loadstring(source)
+if not chunk then
+    error("[MSS HUB] The UI library failed to compile: " .. tostring(compileErr), 0)
+end
+
+local Library = chunk()
+
+local Window = Library:CreateWindow({
+    Name = "MSS HUB",
+    LoadingAnimation = true,
+    LoadingText = "MSS",
+    LoadingDuration = 2.65,
+})
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- CONFIG / FLAG PERSISTENCE (uses MSS UI v2.3+ flag system; feature-guarded)
+-- ══════════════════════════════════════════════════════════════════════════════
+local HAS_CONFIG  = type(Library.SaveConfig) == "function"
+    and type(Library.LoadConfig) == "function"
+    and type(Library.ListConfigs) == "function"
+local CONFIG_NAME = "gag2"
+
+-- Dropdowns apply their value through Set, which does NOT re-fire the element
+-- callback, so we re-sync the script's variables manually after a config load.
+local dropdownResync = {}
+local function registerResync(handle, applyFn)
+    if handle and applyFn then
+        table.insert(dropdownResync, function() applyFn(handle:Get()) end)
+    end
+end
+local function ResyncAll()
+    for _, fn in ipairs(dropdownResync) do pcall(fn) end
+end
+
+local Players = game:GetService("Players")
+local CollectionService = game:GetService("CollectionService")
+local LocalPlayer = Players.LocalPlayer
+local UserId = LocalPlayer.UserId
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Networking = require(ReplicatedStorage:WaitForChild("SharedModules"):WaitForChild("Networking"))
+
+local StealFlags
+pcall(function()
+    StealFlags = require(ReplicatedStorage.SharedModules.Flags.StealFlags)
+end)
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- DIRECT ACTION FUNCTIONS
+-- ══════════════════════════════════════════════════════════════════════════════
+local function DoSell()
+    pcall(function() Networking.NPCS.SellAll:Fire() end)
+end
+
+local function PreviewSell()
+    local ok, result = pcall(function() return Networking.NPCS.PreviewSellAll:Fire() end)
+    return ok and result or nil
+end
+
+local function BuySeed(name)
+    if not name or name == "" then return end
+    pcall(function() Networking.SeedShop.PurchaseSeed:Fire(name) end)
+end
+
+local function BuyGear(name)
+    if not name or name == "" then return end
+    pcall(function() Networking.GearShop.PurchaseGear:Fire(name) end)
+end
+
+local function BuyCrate(name)
+    if not name or name == "" then return end
+    pcall(function() Networking.CrateShop.PurchaseCrate:Fire(name) end)
+end
+
+local PLANT_MIN_DIST = 1.05
+local lastPlantTime = 0
+
+local function WaterDirect(position, canName, tool)
+    if not position or not canName or not tool then return false end
+    local ok = pcall(function()
+        Networking.WateringCan.UseWateringCan:Fire(position - Vector3.new(0, 0.3, 0), canName, tool)
+    end)
+    return ok
+end
+
+local function OpenCrateDirect(crateId)
+    if not crateId or crateId == "" then return false end
+    local ok = pcall(function() Networking.Crate.OpenCrate:Fire(crateId) end)
+    return ok
+end
+
+local function ExpandGarden()
+    pcall(function() Networking.Actions.ExpandGarden:Fire() end)
+end
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- HELPERS
+-- ══════════════════════════════════════════════════════════════════════════════
+local function GetHRP()
+    local char = LocalPlayer.Character
+    if not char then return nil end
+    return char:FindFirstChild("HumanoidRootPart")
+end
+
+local function TeleportTo(pos)
+    local hrp = GetHRP()
+    if not hrp or not pos then return false end
+    hrp.CFrame = CFrame.new(pos + Vector3.new(0, 3, 0))
+    return true
+end
+
+local function GetModelPosition(model)
+    if not model or not model.Parent then return nil end
+    if model:IsA("BasePart") then return model.Position end
+    local ok, cf = pcall(function() return model:GetPivot() end)
+    if ok and cf then return cf.Position end
+    local pp = model.PrimaryPart or model:FindFirstChildWhichIsA("BasePart", true)
+    return pp and pp.Position
+end
+
+local function IsNight()
+    local night = ReplicatedStorage:FindFirstChild("Night")
+    return night and night.Value == true
+end
+
+local function IsRipe(model)
+    local age = model:GetAttribute("Age")
+    local maxAge = model:GetAttribute("MaxAge")
+    if typeof(age) ~= "number" or typeof(maxAge) ~= "number" then
+        return true
+    end
+    return maxAge <= age
+end
+
+local function IsPlantStealable(name)
+    if not name then return true end
+    if StealFlags and StealFlags.IsPlantStealable then
+        return StealFlags.IsPlantStealable(name)
+    end
+    return true
+end
+
+local function GetPromptWorldPosition(prompt)
+    local parent = prompt.Parent
+    if not parent then return nil end
+    if parent:IsA("BasePart") then return parent.Position end
+    if parent:IsA("Model") then return GetModelPosition(parent) end
+    if parent:IsA("Attachment") then return parent.WorldPosition end
+    for _, c in ipairs(parent:GetChildren()) do
+        if c:IsA("BasePart") then return c.Position end
+    end
+    return nil
+end
+
+local function FindMyPlot()
+    local plotId = LocalPlayer:GetAttribute("PlotId")
+    if plotId then
+        local gardens = workspace:FindFirstChild("Gardens")
+        if gardens then
+            local plot = gardens:FindFirstChild("Plot" .. tostring(plotId))
+            if plot then return plot end
+        end
+    end
+    local gardens = workspace:FindFirstChild("Gardens")
+    if not gardens then return nil end
+    for _, plot in ipairs(gardens:GetChildren()) do
+        local plants = plot:FindFirstChild("Plants")
+        if plants then
+            for _, plant in ipairs(plants:GetChildren()) do
+                if plant:GetAttribute("UserId") == UserId then return plot end
+            end
+        end
+    end
+    return nil
+end
+
+local function GetVisiblePlantAreas(plot)
+    local areas = {}
+    if not plot then return areas end
+    for _, part in ipairs(plot:GetDescendants()) do
+        if part:IsA("BasePart") and CollectionService:HasTag(part, "PlantArea") and part.Transparency < 1 then
+            table.insert(areas, part)
+        end
+    end
+    return areas
+end
+
+local function GetPlantBlockers(plot)
+    local blockers = {}
+    local plants = plot and plot:FindFirstChild("Plants")
+    if not plants then return blockers end
+    for _, plant in ipairs(plants:GetChildren()) do
+        local pos = GetModelPosition(plant)
+        if pos then table.insert(blockers, pos) end
+    end
+    return blockers
+end
+
+local function IsSpotClear(pos, blockers, minDist)
+    minDist = minDist or PLANT_MIN_DIST
+    for _, bp in ipairs(blockers) do
+        local dx, dz = pos.X - bp.X, pos.Z - bp.Z
+        if dx * dx + dz * dz < minDist * minDist then return false end
+    end
+    return true
+end
+
+local function SurfacePlantPosition(areaPart, localX, localZ)
+    local size = areaPart.Size
+    return areaPart.CFrame:PointToWorldSpace(Vector3.new(localX, size.Y / 2 + 0.15, localZ))
+end
+
+local function GeneratePlantSpots(plot, spacing)
+    spacing = math.max(spacing or 2, PLANT_MIN_DIST + 0.5)
+    local spots = {}
+    local blockers = GetPlantBlockers(plot)
+    for _, area in ipairs(GetVisiblePlantAreas(plot)) do
+        local size = area.Size
+        local halfX = math.max(size.X / 2 - 1.5, 0.5)
+        local halfZ = math.max(size.Z / 2 - 1.5, 0.5)
+        for x = -halfX, halfX, spacing do
+            for z = -halfZ, halfZ, spacing do
+                local pos = SurfacePlantPosition(area, x, z)
+                if IsSpotClear(pos, blockers, PLANT_MIN_DIST) then
+                    table.insert(spots, { position = pos, area = area })
+                    table.insert(blockers, pos)
+                end
+            end
+        end
+    end
+    return spots
+end
+
+local function GetSeedQueue(filterNames)
+    local filterSet = {}
+    if filterNames and #filterNames > 0 then
+        for _, name in ipairs(filterNames) do filterSet[name] = true end
+    end
+    local queue = {}
+    local seen = {}
+    local function addEntry(item)
+        if not item:IsA("Tool") then return end
+        local seedName = item:GetAttribute("SeedTool")
+        if not seedName then return end
+        if next(filterSet) and not filterSet[seedName] then return end
+        local count = tonumber(item:GetAttribute("Count")) or 1
+        if count <= 0 or not item.Parent then return end
+        local key = tostring(item)
+        if seen[key] then return end
+        seen[key] = true
+        table.insert(queue, { seedName = seedName, tool = item, count = count })
+    end
+    local backpack = LocalPlayer:FindFirstChild("Backpack")
+    if backpack then
+        for _, item in ipairs(backpack:GetChildren()) do addEntry(item) end
+    end
+    local char = LocalPlayer.Character
+    if char then
+        for _, item in ipairs(char:GetChildren()) do addEntry(item) end
+    end
+    table.sort(queue, function(a, b) return a.seedName < b.seedName end)
+    return queue
+end
+
+local function GetBackpackSeedNames()
+    local names, seen = {}, {}
+    for _, entry in ipairs(GetSeedQueue(nil)) do
+        if not seen[entry.seedName] then
+            seen[entry.seedName] = true
+            table.insert(names, entry.seedName)
+        end
+    end
+    table.sort(names)
+    return names
+end
+
+local function GetTotalSeedCount(filterNames)
+    local total = 0
+    for _, entry in ipairs(GetSeedQueue(filterNames)) do
+        total += tonumber(entry.tool:GetAttribute("Count")) or 1
+    end
+    return total
+end
+
+local function EquipSeedTool(tool)
+    if not tool or not tool.Parent then return false end
+    local hum = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+    if not hum then return false end
+    local equipped = LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+    if equipped == tool then return true end
+    pcall(function() hum:EquipTool(tool) end)
+    task.wait(0.1)
+    return LocalPlayer.Character:FindFirstChildWhichIsA("Tool") == tool
+end
+
+local function GetPlantCount(plot)
+    local plants = plot and plot:FindFirstChild("Plants")
+    return plants and #plants:GetChildren() or 0
+end
+
+local function TryPlantAt(spot, seedName, tool, equipFirst)
+    if not spot or not spot.position or not seedName or not tool then return false end
+    if not tool.Parent then return false end
+
+    local now = os.clock()
+    if now - lastPlantTime < 0.08 then
+        task.wait(0.08 - (now - lastPlantTime))
+    end
+
+    local plot = FindMyPlot()
+    if not plot then return false end
+    if not IsSpotClear(spot.position, GetPlantBlockers(plot), PLANT_MIN_DIST) then
+        return false
+    end
+
+    if equipFirst and not EquipSeedTool(tool) then return false end
+
+    local before = GetPlantCount(plot)
+    local fired = pcall(function()
+        Networking.Plant.PlantSeed:Fire(spot.position, seedName, tool)
+    end)
+    lastPlantTime = os.clock()
+    if not fired then return false end
+
+    for _ = 1, 6 do
+        task.wait(0.05)
+        if GetPlantCount(plot) > before then return true end
+        if not tool.Parent then break end
+        local count = tonumber(tool:GetAttribute("Count")) or 0
+        if count <= 0 then return true end
+    end
+    return false
+end
+
+local function RunPlantCycle(seedFilter, spacing, gap, equipFirst, maxPlants)
+    local plot = FindMyPlot()
+    if not plot then return 0, "no_plot" end
+
+    local queue = GetSeedQueue(seedFilter)
+    if #queue == 0 then return 0, "no_seeds" end
+
+    local spots = GeneratePlantSpots(plot, spacing)
+    if #spots == 0 then return 0, "full" end
+
+    local planted = 0
+    local qi = 1
+
+    for _, spot in ipairs(spots) do
+        if maxPlants and planted >= maxPlants then break end
+
+        local entry
+        for _ = 1, #queue do
+            local cand = queue[qi]
+            qi = (qi % #queue) + 1
+            local tool = cand.tool
+            if tool and tool.Parent then
+                local count = tonumber(tool:GetAttribute("Count")) or 1
+                if count > 0 then
+                    entry = cand
+                    break
+                end
+            end
+        end
+        if not entry then break end
+
+        if TryPlantAt(spot, entry.seedName, entry.tool, equipFirst) then
+            planted += 1
+        end
+        task.wait(gap)
+    end
+
+    return planted, planted > 0 and "ok" or "failed"
+end
+
+local function FindWateringCan()
+    local function scan(container)
+        if not container then return nil, nil end
+        for _, item in ipairs(container:GetChildren()) do
+            if item:IsA("Tool") and item:GetAttribute("WateringCan") then
+                return item, item:GetAttribute("WateringCan")
+            end
+        end
+        return nil, nil
+    end
+    local char = LocalPlayer.Character
+    if char then
+        local tool, name = scan(char)
+        if tool then return tool, name end
+    end
+    return scan(LocalPlayer:FindFirstChild("Backpack"))
+end
+
+local function GetMyPlants(plot)
+    local results = {}
+    local plants = plot and plot:FindFirstChild("Plants")
+    if not plants then return results end
+    for _, plant in ipairs(plants:GetChildren()) do
+        if plant:GetAttribute("UserId") == UserId then
+            local pos = GetModelPosition(plant)
+            if pos then
+                table.insert(results, {
+                    model = plant,
+                    position = pos,
+                    seedName = plant:GetAttribute("SeedName") or "Unknown",
+                    age = plant:GetAttribute("Age"),
+                    maxAge = plant:GetAttribute("MaxAge"),
+                })
+            end
+        end
+    end
+    return results
+end
+
+local function GetBackpackCrates()
+    local crates = {}
+    local function scan(container)
+        if not container then return end
+        for _, item in ipairs(container:GetChildren()) do
+            if item:IsA("Tool") and item:GetAttribute("Crate") then
+                local crateName = item:GetAttribute("Crate")
+                table.insert(crates, {
+                    tool = item,
+                    name = crateName,
+                    id = crateName,
+                })
+            end
+        end
+    end
+    scan(LocalPlayer:FindFirstChild("Backpack"))
+    scan(LocalPlayer.Character)
+    return crates
+end
+
+local function FirePromptBypassed(prompt, bypass)
+    if not prompt or not prompt.Parent then return false end
+    local ok = pcall(function()
+        if bypass then
+            local oldDist = prompt.MaxActivationDistance
+            local oldHold = prompt.HoldDuration
+            local oldLOS  = prompt.RequiresLineOfSight
+            prompt.MaxActivationDistance = math.huge
+            prompt.HoldDuration = 0
+            prompt.RequiresLineOfSight = false
+            fireproximityprompt(prompt)
+            task.delay(0.1, function()
+                if prompt.Parent then
+                    prompt.MaxActivationDistance = oldDist
+                    prompt.HoldDuration = oldHold
+                    prompt.RequiresLineOfSight = oldLOS
+                end
+            end)
+        else
+            fireproximityprompt(prompt)
+        end
+    end)
+    return ok
+end
+
+local function MutationPriority(mut)
+    if mut == "Rainbow" then return 100 end
+    if mut == "Starstruck" then return 80 end
+    if mut == "Aurora" then return 70 end
+    if mut == "Bloodlit" then return 60 end
+    if mut == "Gold" then return 50 end
+    if mut == "None" or mut == nil then return 1 end
+    return 25
+end
+
+local function CollectFruitDirect(plantId, fruitId)
+    if not plantId then return false end
+    local ok = pcall(function()
+        Networking.Garden.CollectFruit:Fire(plantId, fruitId or "")
+    end)
+    return ok
+end
+
+local function StealFruitDirect(ownerUserId, plantId, fruitId)
+    if not ownerUserId or not plantId then return false end
+    if not IsNight() then return false end
+    local ok = pcall(function()
+        Networking.Steal.BeginSteal:Fire(ownerUserId, plantId, fruitId or "")
+        Networking.Steal.CompleteSteal:Fire()
+    end)
+    return ok
+end
+
+local function ScanGardenFruits(opts)
+    opts = opts or {}
+    local results = {}
+    local gardens = workspace:FindFirstChild("Gardens")
+    if not gardens then return results end
+
+    local myPlot = FindMyPlot()
+    for _, plot in ipairs(gardens:GetChildren()) do
+        if opts.onlyMy and plot ~= myPlot then continue end
+        if opts.skipMy and plot == myPlot then continue end
+        if opts.skipBlocked and plotsBlockedByOwner and plotsBlockedByOwner[plot] then continue end
+
+        local plants = plot:FindFirstChild("Plants")
+        if not plants then continue end
+        if opts.skipEmpty and #plants:GetChildren() == 0 then continue end
+
+        for _, plant in ipairs(plants:GetChildren()) do
+            local ownerId = tonumber(plant:GetAttribute("UserId"))
+            local plantId = plant:GetAttribute("PlantId")
+            if not ownerId or typeof(plantId) ~= "string" then continue end
+
+            local seedName = plant:GetAttribute("SeedName") or plant:GetAttribute("CorePartName") or "Unknown"
+
+            local function addTarget(model, fruitId)
+                if opts.ripeOnly and not IsRipe(model) then return end
+                local fruitName = model:GetAttribute("CorePartName") or model:GetAttribute("SeedName") or seedName
+                local mutation = model:GetAttribute("Mutation") or model:GetAttribute("Variant") or "None"
+
+                if opts.fruitFilter and opts.fruitFilter ~= "All" and fruitName ~= opts.fruitFilter then return end
+                if opts.mutationFilter and opts.mutationFilter ~= "All" then
+                    if opts.mutationFilter == "None" then
+                        if mutation ~= "None" and mutation ~= nil then return end
+                    elseif tostring(mutation) ~= opts.mutationFilter then
+                        return
+                    end
+                end
+
+                table.insert(results, {
+                    ownerUserId = ownerId,
+                    plantId = plantId,
+                    fruitId = fruitId or "",
+                    fruitName = fruitName,
+                    mutation = tostring(mutation),
+                    plot = plot,
+                    model = model,
+                    position = GetModelPosition(model),
+                    isMine = ownerId == UserId,
+                    priority = MutationPriority(mutation),
+                })
+            end
+
+            local fruits = plant:FindFirstChild("Fruits")
+            if fruits and #fruits:GetChildren() > 0 then
+                for _, fruit in ipairs(fruits:GetChildren()) do
+                    local fruitId = fruit:GetAttribute("FruitId")
+                    if typeof(fruitId) == "string" then
+                        addTarget(fruit, fruitId)
+                    end
+                end
+            elseif opts.includeWholePlants and ownerId == UserId then
+                addTarget(plant, "")
+            end
+        end
+    end
+
+    if opts.smartSort then
+        table.sort(results, function(a, b) return a.priority > b.priority end)
+    end
+    return results
+end
+
+local function GetAllFruitTypes()
+    local types = { "All" }
+    local seen = { All = true }
+
+    local function add(name)
+        if name and not seen[name] then
+            seen[name] = true
+            table.insert(types, name)
+        end
+    end
+
+    local assets = ReplicatedStorage:FindFirstChild("Assets")
+    if assets then
+        local seeds = assets:FindFirstChild("Seeds")
+        if seeds then
+            for _, s in ipairs(seeds:GetChildren()) do add(s.Name) end
+        end
+    end
+
+    local gardens = workspace:FindFirstChild("Gardens")
+    if gardens then
+        for _, plot in ipairs(gardens:GetChildren()) do
+            local plants = plot:FindFirstChild("Plants")
+            if plants then
+                for _, plant in ipairs(plants:GetChildren()) do
+                    add(plant:GetAttribute("SeedName") or plant:GetAttribute("CorePartName"))
+                    local ff = plant:FindFirstChild("Fruits")
+                    if ff then
+                        for _, fruit in ipairs(ff:GetChildren()) do
+                            add(fruit:GetAttribute("CorePartName") or fruit:GetAttribute("SeedName"))
+                        end
+                    end
+                end
+            end
+        end
+    end
+
+    table.sort(types, function(a, b)
+        if a == "All" then return true end
+        if b == "All" then return false end
+        return a < b
+    end)
+    return types
+end
+
+local function GetAllMutations()
+    local muts = { "All", "None" }
+    local seen = { All = true, None = true }
+    local gardens = workspace:FindFirstChild("Gardens")
+    if not gardens then return muts end
+    for _, plot in ipairs(gardens:GetChildren()) do
+        local plants = plot:FindFirstChild("Plants")
+        if plants then
+            for _, plant in ipairs(plants:GetChildren()) do
+                local ff = plant:FindFirstChild("Fruits")
+                if ff then
+                    for _, fruit in ipairs(ff:GetChildren()) do
+                        local m = fruit:GetAttribute("Mutation") or fruit:GetAttribute("Variant")
+                        if m and not seen[tostring(m)] then
+                            seen[tostring(m)] = true
+                            table.insert(muts, tostring(m))
+                        end
+                    end
+                end
+            end
+        end
+    end
+    return muts
+end
+
+local function GetShopItems(shopName)
+    local items = {}
+    local seen = {}
+    local stock = ReplicatedStorage:FindFirstChild("StockValues")
+    if stock then
+        local shop = stock:FindFirstChild(shopName)
+        if shop then
+            local it = shop:FindFirstChild("Items")
+            if it then
+                for _, item in ipairs(it:GetChildren()) do
+                    if not seen[item.Name] then
+                        seen[item.Name] = true
+                        table.insert(items, item.Name)
+                    end
+                end
+            end
+        end
+    end
+    table.sort(items)
+    return items
+end
+
+local function GetSeedShopItems() return GetShopItems("SeedShop") end
+local function GetGearShopItems() return GetShopItems("GearShop") end
+local function GetCrateShopItems() return GetShopItems("CrateShop") end
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- AUTO TAB
+-- ══════════════════════════════════════════════════════════════════════════════
+local AutoTab = Window:AddTab({ Name = "Auto", Subtitle = "Automation", Icon = "lightning" })
+
+-- ── AUTO SELL ─────────────────────────────────────────────────────────────────
+local SellSub   = AutoTab:AddSubTab("Auto Sell")
+local autoSell  = false
+local sellDelay = 5
+
+SellSub:AddToggle({
+    Name = "Auto Sell", Default = false, Flag = "sell_auto",
+    Callback = function(v)
+        autoSell = v
+        Window:Notify({Title="Auto Sell", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+SellSub:AddSlider({ Name="Sell Interval", Min=1, Max=60, Default=5, Suffix="s", Flag="sell_interval", Callback=function(v) sellDelay=v end })
+SellSub:AddButton({
+    Name = "Sell Now", Primary = true,
+    Callback = function()
+        DoSell()
+        Window:Notify({Title="Sell", Content="Sold inventory!", Type="Success", Duration=2})
+    end,
+})
+SellSub:AddButton({
+    Name = "Preview Sell Value",
+    Callback = function()
+        local preview = PreviewSell()
+        if preview then
+            local val = preview.TotalSellValue or preview.TotalValue or preview.TotalBaseValue or 0
+            Window:Notify({Title="Sell Preview", Content=("Value: %s"):format(tostring(val)), Type="Info", Duration=4})
+        else
+            Window:Notify({Title="Sell Preview", Content="Could not fetch preview", Type="Error", Duration=3})
+        end
+    end,
+})
+
+task.spawn(function()
+    while true do
+        if autoSell then DoSell() end
+        task.wait(sellDelay)
+    end
+end)
+
+-- ── AUTO HARVEST ──────────────────────────────────────────────────────────────
+local HarvestSub    = AutoTab:AddSubTab("Auto Harvest")
+local autoHarvest   = false
+local harvestDelay  = 0.3
+local harvestOnlyMy = true
+local harvestFilter = "All"
+local harvestRipeOnly = true
+local harvestUseAPI = true
+local harvestGap    = 0.05
+
+HarvestSub:AddToggle({
+    Name = "Auto Harvest", Default = false, Flag = "harvest_auto",
+    Callback = function(v)
+        autoHarvest = v
+        Window:Notify({Title="Auto Harvest", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+HarvestSub:AddToggle({ Name="Use Direct API", Default=true, Flag="harvest_api", Callback=function(v) harvestUseAPI=v end })
+HarvestSub:AddToggle({ Name="Only Ripe Fruit", Default=true, Flag="harvest_ripe", Callback=function(v) harvestRipeOnly=v end })
+HarvestSub:AddSlider({ Name="Cycle Delay", Min=0.1, Max=10, Default=0.3, Suffix="s", Flag="harvest_cycle", Callback=function(v) harvestDelay=v end })
+HarvestSub:AddSlider({ Name="Action Gap", Min=0.01, Max=1, Default=0.05, Suffix="s", Flag="harvest_gap", Callback=function(v) harvestGap=v end })
+HarvestSub:AddToggle({ Name="Only My Plot", Default=true, Flag="harvest_onlymy", Callback=function(v) harvestOnlyMy=v end })
+
+local function applyHarvestFilter(v) harvestFilter=v end
+local harvestDropdown = HarvestSub:AddDropdown({
+    Name="Fruit Filter", Options=GetAllFruitTypes(), Default="All",
+    MaxVisible=5, Searchable=true, Flag="harvest_fruit",
+    Callback=applyHarvestFilter,
+})
+registerResync(harvestDropdown, applyHarvestFilter)
+HarvestSub:AddButton({
+    Name="Refresh Fruit List",
+    Callback=function()
+        harvestDropdown:SetOptions(GetAllFruitTypes())
+        Window:Notify({Title="Refreshed", Content="Fruit list updated.", Type="Info", Duration=2})
+    end,
+})
+
+task.spawn(function()
+    while true do
+        if autoHarvest then
+            local targets = ScanGardenFruits({
+                onlyMy = harvestOnlyMy,
+                fruitFilter = harvestFilter,
+                ripeOnly = harvestRipeOnly,
+                includeWholePlants = true,
+            })
+            for _, t in ipairs(targets) do
+                if not autoHarvest then break end
+                if not t.isMine then continue end
+                if harvestUseAPI then
+                    CollectFruitDirect(t.plantId, t.fruitId)
+                else
+                    local prompt = t.model:FindFirstChild("HarvestPrompt", true)
+                    if prompt then FirePromptBypassed(prompt, true) end
+                end
+                task.wait(harvestGap)
+            end
+        end
+        task.wait(harvestDelay)
+    end
+end)
+
+-- ── AUTO PLANT ────────────────────────────────────────────────────────────────
+local PlantSub = AutoTab:AddSubTab("Auto Plant")
+local autoPlant = false
+local plantDelay = 0.4
+local plantGap = 0.15
+local plantSpacing = 2
+local plantEquip = true
+local plantTpPlot = false
+local plantSelectedSeeds = {}
+local plantPlantedCount = 0
+local plantFailNotify = true
+local lastPlantFailAt = 0
+
+local function GetPlantFilter()
+    return #plantSelectedSeeds > 0 and plantSelectedSeeds or nil
+end
+
+local function PlantStatusMessage(planted, reason)
+    if planted > 0 then
+        return ("Planted %d"):format(planted), "Success"
+    end
+    if reason == "no_plot" then return "Could not find your plot.", "Error"
+    elseif reason == "no_seeds" then return "No seeds in backpack.", "Error"
+    elseif reason == "full" then return "Garden is full — no free spots.", "Info"
+    else return "Planting failed — spots may be blocked.", "Error" end
+end
+
+PlantSub:AddToggle({
+    Name = "Auto Plant", Default = false, Flag = "plant_auto",
+    Callback = function(v)
+        autoPlant = v
+        if v then plantPlantedCount = 0 end
+        Window:Notify({Title="Auto Plant", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+PlantSub:AddToggle({
+    Name = "Equip Seed Before Plant", Default = true, Flag = "plant_equip",
+    Description = "Matches the game's planting flow — strongly recommended",
+    Callback = function(v) plantEquip = v end,
+})
+PlantSub:AddToggle({
+    Name = "Teleport to Plot", Default = false, Flag = "plant_tp",
+    Description = "TP to your plot center before each planting cycle",
+    Callback = function(v) plantTpPlot = v end,
+})
+PlantSub:AddSlider({ Name="Cycle Delay", Min=0.1, Max=10, Default=0.4, Suffix="s", Flag="plant_cycle", Callback=function(v) plantDelay=v end })
+PlantSub:AddSlider({ Name="Plant Gap", Min=0.08, Max=2, Default=0.15, Suffix="s", Flag="plant_gap", Callback=function(v) plantGap=v end })
+PlantSub:AddSlider({ Name="Grid Spacing", Min=1.5, Max=4, Default=2, Suffix=" studs", Flag="plant_spacing", Callback=function(v) plantSpacing=v end })
+
+local function applyPlantSeeds(sel) plantSelectedSeeds = sel or {} end
+local plantSeedDropdown = PlantSub:AddMultiDropdown({
+    Name="Seeds to Plant", Options=GetBackpackSeedNames(), Default={},
+    MaxVisible=6, Searchable=true, Flag="plant_seeds",
+    Callback=applyPlantSeeds,
+})
+registerResync(plantSeedDropdown, applyPlantSeeds)
+PlantSub:AddButton({
+    Name="Refresh Seed List",
+    Callback=function()
+        plantSeedDropdown:SetOptions(GetBackpackSeedNames())
+        local total = GetTotalSeedCount(GetPlantFilter())
+        Window:Notify({Title="Auto Plant", Content=("%d seed(s) ready"):format(total), Type="Info", Duration=2})
+    end,
+})
+PlantSub:AddButton({
+    Name = "Show Free Spots", 
+    Callback = function()
+        local plot = FindMyPlot()
+        if not plot then
+            Window:Notify({Title="Auto Plant", Content="Could not find your plot.", Type="Error", Duration=2})
+            return
+        end
+        local spots = GeneratePlantSpots(plot, plantSpacing)
+        local seeds = GetTotalSeedCount(GetPlantFilter())
+        Window:Notify({
+            Title = "Auto Plant",
+            Content = ("%d free spot(s) | %d seed(s) available"):format(#spots, seeds),
+            Type = "Info", Duration = 4,
+        })
+    end,
+})
+PlantSub:AddButton({
+    Name="Fill Garden Once", Primary=true,
+    Callback=function()
+        if plantTpPlot then
+            local plot = FindMyPlot()
+            local areas = plot and GetVisiblePlantAreas(plot)
+            if areas and areas[1] then TeleportTo(areas[1].Position) task.wait(0.2) end
+        end
+        local planted, reason = RunPlantCycle(GetPlantFilter(), plantSpacing, plantGap, plantEquip, nil)
+        plantPlantedCount += planted
+        local msg, kind = PlantStatusMessage(planted, reason)
+        Window:Notify({Title="Auto Plant", Content=msg, Type=kind, Duration=3})
+    end,
+})
+
+task.spawn(function()
+    while true do
+        if autoPlant then
+            if plantTpPlot then
+                local plot = FindMyPlot()
+                if plot then
+                    local areas = GetVisiblePlantAreas(plot)
+                    if areas[1] then TeleportTo(areas[1].Position) task.wait(0.15) end
+                end
+            end
+            local planted, reason = RunPlantCycle(GetPlantFilter(), plantSpacing, plantGap, plantEquip, nil)
+            if planted > 0 then
+                plantPlantedCount += planted
+            elseif plantFailNotify and reason and reason ~= "ok" and (tick() - lastPlantFailAt) > 20 then
+                lastPlantFailAt = tick()
+                local msg = PlantStatusMessage(0, reason)
+                Window:Notify({Title="Auto Plant", Content=msg, Type="Info", Duration=3})
+            end
+        end
+        task.wait(plantDelay)
+    end
+end)
+
+-- ── AUTO WATER ────────────────────────────────────────────────────────────────
+local WaterSub = AutoTab:AddSubTab("Auto Water")
+local autoWater = false
+local waterDelay = 1
+local waterGap = 0.55
+local waterMode = "Plant Positions"
+local waterOnlyRipe = false
+local waterCount = 0
+
+WaterSub:AddToggle({
+    Name = "Auto Water", Default = false, Flag = "water_auto",
+    Callback = function(v)
+        autoWater = v
+        if v then waterCount = 0 end
+        Window:Notify({Title="Auto Water", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+WaterSub:AddSlider({ Name="Cycle Delay", Min=0.2, Max=15, Default=1, Suffix="s", Flag="water_cycle", Callback=function(v) waterDelay=v end })
+WaterSub:AddSlider({ Name="Water Gap", Min=0.5, Max=3, Default=0.55, Suffix="s", Flag="water_gap", Callback=function(v) waterGap=v end })
+local function applyWaterMode(v) waterMode = v end
+local waterModeDropdown = WaterSub:AddDropdown({
+    Name="Water Mode", Options={"Plant Positions","Full Plot Grid","Ripe Plants Only"}, Default="Plant Positions",
+    MaxVisible=3, Flag="water_mode", Callback=applyWaterMode,
+})
+registerResync(waterModeDropdown, applyWaterMode)
+WaterSub:AddToggle({
+    Name="Skip Fully Grown", Default=false, Flag="water_skipripe",
+    Description="Only water plants that haven't reached MaxAge yet",
+    Callback=function(v) waterOnlyRipe = v end,
+})
+WaterSub:AddButton({
+    Name="Water Once (Test)", Primary=true,
+    Callback=function()
+        local tool, canName = FindWateringCan()
+        if not tool then
+            Window:Notify({Title="Auto Water", Content="Equip a watering can first!", Type="Error", Duration=3})
+            return
+        end
+        local plot = FindMyPlot()
+        if not plot then
+            Window:Notify({Title="Auto Water", Content="Could not find your plot.", Type="Error", Duration=2})
+            return
+        end
+        local targets = {}
+        if waterMode == "Full Plot Grid" then
+            for _, spot in ipairs(GeneratePlantSpots(plot, 3)) do table.insert(targets, spot.position) end
+        else
+            for _, p in ipairs(GetMyPlants(plot)) do
+                if waterMode == "Ripe Plants Only" then
+                    if typeof(p.age) == "number" and typeof(p.maxAge) == "number" and p.age >= p.maxAge then
+                        table.insert(targets, p.position)
+                    end
+                elseif waterOnlyRipe then
+                    if typeof(p.maxAge) ~= "number" or typeof(p.age) ~= "number" or p.age < p.maxAge then
+                        table.insert(targets, p.position)
+                    end
+                else
+                    table.insert(targets, p.position)
+                end
+            end
+        end
+        local watered = 0
+        for _, pos in ipairs(targets) do
+            if WaterDirect(pos, canName, tool) then watered += 1 end
+            task.wait(waterGap)
+        end
+        Window:Notify({Title="Auto Water", Content=("Watered %d spot(s)"):format(watered), Type=watered > 0 and "Success" or "Info", Duration=3})
+    end,
+})
+
+task.spawn(function()
+    while true do
+        if autoWater then
+            local tool, canName = FindWateringCan()
+            local plot = FindMyPlot()
+            if tool and plot then
+                local targets = {}
+                if waterMode == "Full Plot Grid" then
+                    for _, spot in ipairs(GeneratePlantSpots(plot, 3)) do table.insert(targets, spot.position) end
+                else
+                    for _, p in ipairs(GetMyPlants(plot)) do
+                        if waterMode == "Ripe Plants Only" then
+                            if typeof(p.age) == "number" and typeof(p.maxAge) == "number" and p.age >= p.maxAge then
+                                table.insert(targets, p.position)
+                            end
+                        elseif waterOnlyRipe then
+                            if typeof(p.maxAge) ~= "number" or typeof(p.age) ~= "number" or p.age < p.maxAge then
+                                table.insert(targets, p.position)
+                            end
+                        else
+                            table.insert(targets, p.position)
+                        end
+                    end
+                end
+                for _, pos in ipairs(targets) do
+                    if not autoWater then break end
+                    if WaterDirect(pos, canName, tool) then waterCount += 1 end
+                    task.wait(waterGap)
+                end
+            end
+        end
+        task.wait(waterDelay)
+    end
+end)
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- AUTO STEAL
+-- ══════════════════════════════════════════════════════════════════════════════
+local StealSub = AutoTab:AddSubTab("Auto Steal")
+
+local autoSteal=false; local stealDelay=0.2; local stealGap=0.03
+local stealFilter="All"; local stealMutation="All"; local antiAFKLoop=true
+local skipEmptyPlots=true; local smartSort=true
+local stealRipeOnly=true; local requireNight=true
+local notifyOwnerLeft=true; local notifyNotNight=true
+local teleportMode=false; local tpReturnDelay=0.1; local tpReturnAfterAll=false
+local stealCount=0
+
+local plotsBlockedByOwner={}
+local plotOwners={}; local plotReturnPositions={}
+local cachedMyPlot=nil; local cachedMyCenter=nil; local lastPlotCheck=0
+local lastStealCooldowns={}
+
+local function GetPlotOwnerId(plot)
+    if plotOwners[plot] then return plotOwners[plot] end
+    local plants = plot:FindFirstChild("Plants")
+    if not plants then return nil end
+    for _, p in ipairs(plants:GetChildren()) do
+        local uid = p:GetAttribute("UserId")
+        if uid then plotOwners[plot] = uid; return uid end
+    end
+    return nil
+end
+
+local function GetGardenZone(plot)
+    for _, d in ipairs(plot:GetDescendants()) do
+        if d.Name == "GardenZonePart" and d:IsA("BasePart") then return d end
+    end
+    return nil
+end
+
+local function IsPositionInZone(pos, zonePart)
+    if not zonePart or not zonePart:IsA("BasePart") then return false end
+    local rel = zonePart.CFrame:PointToObjectSpace(pos)
+    local hs = zonePart.Size / 2
+    return math.abs(rel.X) <= hs.X and math.abs(rel.Y) <= hs.Y and math.abs(rel.Z) <= hs.Z
+end
+
+local function IsOwnerOnPlot(plot)
+    local ownerId = GetPlotOwnerId(plot)
+    if not ownerId or ownerId == UserId then return false end
+    local owner = Players:GetPlayerByUserId(ownerId)
+    if not owner or not owner.Character then return false end
+    local hrp = owner.Character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return false end
+    local zone = GetGardenZone(plot)
+    if not zone then return false end
+    return IsPositionInZone(hrp.Position, zone)
+end
+
+local function GetMyPlotCenter()
+    if cachedMyCenter and (tick() - lastPlotCheck) < 10 then return cachedMyCenter end
+    cachedMyPlot = FindMyPlot()
+    lastPlotCheck = tick()
+    if not cachedMyPlot then cachedMyCenter=nil; return nil end
+    if plotReturnPositions[cachedMyPlot] then
+        cachedMyCenter = plotReturnPositions[cachedMyPlot]; return cachedMyCenter
+    end
+    local zone = GetGardenZone(cachedMyPlot)
+    if zone then
+        plotReturnPositions[cachedMyPlot] = zone.Position
+        cachedMyCenter = zone.Position; return cachedMyCenter
+    end
+    for _, d in ipairs(cachedMyPlot:GetDescendants()) do
+        if d:IsA("BasePart") then
+            plotReturnPositions[cachedMyPlot] = d.Position
+            cachedMyCenter = d.Position; return cachedMyCenter
+        end
+    end
+    return nil
+end
+
+task.spawn(function()
+    while true do
+        local gardens = workspace:FindFirstChild("Gardens")
+        if gardens then
+            for _, plot in ipairs(gardens:GetChildren()) do
+                local plants = plot:FindFirstChild("Plants")
+                if plants and #plants:GetChildren() > 0 then
+                    local was = plotsBlockedByOwner[plot]
+                    local now = IsOwnerOnPlot(plot)
+                    plotsBlockedByOwner[plot] = now
+                    if was and not now and notifyOwnerLeft and autoSteal then
+                        local oid = plotOwners[plot]; local oname = "?"
+                        if oid then local p = Players:GetPlayerByUserId(oid); if p then oname = p.DisplayName end end
+                        Window:Notify({Title="Plot Open!", Content=oname.." left their plot!", Type="Success", Duration=3})
+                    end
+                end
+            end
+        end
+        task.wait(0.5)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        task.wait(30)
+        for plot, _ in pairs(plotsBlockedByOwner) do
+            if not plot.Parent then
+                plotsBlockedByOwner[plot]=nil
+                plotOwners[plot]=nil
+                plotReturnPositions[plot]=nil
+            end
+        end
+        local now = tick()
+        for key, t in pairs(lastStealCooldowns) do
+            if now - t > 60 then lastStealCooldowns[key] = nil end
+        end
+    end
+end)
+
+local function FireStealTarget(data)
+    if not data.model or not data.model.Parent then return false end
+    if not IsPlantStealable(data.fruitName) then return false end
+
+    if requireNight and not IsNight() then
+        if notifyNotNight and autoSteal then
+            notifyNotNight = false
+            Window:Notify({Title="Steal", Content="Stealing only works at night!", Type="Error", Duration=3})
+            task.delay(30, function() notifyNotNight = true end)
+        end
+        return false
+    end
+
+    local key = ("%d_%s_%s"):format(data.ownerUserId, data.plantId, data.fruitId)
+    if lastStealCooldowns[key] and (tick() - lastStealCooldowns[key]) < 1.5 then
+        return false
+    end
+
+    local success = false
+    if teleportMode and data.position then
+        TeleportTo(data.position)
+        task.wait(0.05)
+    end
+
+    success = StealFruitDirect(data.ownerUserId, data.plantId, data.fruitId)
+
+    if success then
+        lastStealCooldowns[key] = tick()
+        stealCount += 1
+        if teleportMode and not tpReturnAfterAll then
+            task.wait(tpReturnDelay)
+            local rp = GetMyPlotCenter()
+            if rp then TeleportTo(rp) end
+        end
+    end
+    return success
+end
+
+StealSub:AddToggle({
+    Name="Auto Steal", Default=false, Flag="steal_auto",
+    Callback=function(v)
+        autoSteal = v
+        if v then stealCount=0 end
+        Window:Notify({Title="Auto Steal", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+StealSub:AddToggle({ Name="Require Night", Default=true, Flag="steal_night", Callback=function(v) requireNight=v end })
+StealSub:AddToggle({ Name="Only Ripe Fruit", Default=true, Flag="steal_ripe", Callback=function(v) stealRipeOnly=v end })
+StealSub:AddToggle({ Name="Teleport Mode", Default=false, Flag="steal_tp", Callback=function(v) teleportMode=v end })
+StealSub:AddToggle({ Name="Return After Cycle", Default=false, Flag="steal_return", Callback=function(v) tpReturnAfterAll=v end })
+StealSub:AddSlider({ Name="TP Return Delay", Min=0.05, Max=2, Default=0.1, Suffix="s", Flag="steal_tpdelay", Callback=function(v) tpReturnDelay=v end })
+StealSub:AddSlider({ Name="Cycle Delay", Min=0.1, Max=10, Default=0.2, Suffix="s", Flag="steal_cycle", Callback=function(v) stealDelay=v end })
+StealSub:AddSlider({ Name="Steal Gap", Min=0.01, Max=1, Default=0.03, Suffix="s", Flag="steal_gap", Callback=function(v) stealGap=v end })
+
+local function applyStealMut(v) stealMutation=v end
+local stealMutDropdown = StealSub:AddDropdown({
+    Name="Mutation Filter", Options=GetAllMutations(), Default="All", MaxVisible=5, Searchable=true, Flag="steal_mutation",
+    Callback=applyStealMut,
+})
+registerResync(stealMutDropdown, applyStealMut)
+local function applyStealFruit(v) stealFilter=v end
+local stealFruitDropdown = StealSub:AddDropdown({
+    Name="Fruit Filter", Options=GetAllFruitTypes(), Default="All", MaxVisible=5, Searchable=true, Flag="steal_fruit",
+    Callback=applyStealFruit,
+})
+registerResync(stealFruitDropdown, applyStealFruit)
+StealSub:AddButton({
+    Name="Refresh Lists",
+    Callback=function()
+        stealMutDropdown:SetOptions(GetAllMutations())
+        stealFruitDropdown:SetOptions(GetAllFruitTypes())
+        Window:Notify({Title="Refreshed", Content="Lists updated.", Type="Info", Duration=2})
+    end,
+})
+
+StealSub:AddToggle({ Name="Notify When Owner Leaves", Default=true, Flag="steal_notifyleave", Callback=function(v) notifyOwnerLeft=v end })
+StealSub:AddToggle({ Name="Smart Sort (Mutations)", Default=true, Flag="steal_smartsort", Callback=function(v) smartSort=v end })
+StealSub:AddToggle({ Name="Skip Empty Plots", Default=true, Flag="steal_skipempty", Callback=function(v) skipEmptyPlots=v end })
+StealSub:AddToggle({ Name="Anti-AFK", Default=true, Flag="steal_antiafk", Callback=function(v) antiAFKLoop=v end })
+
+if not _G.MSSAntiAFKConnected then
+    _G.MSSAntiAFKConnected = true
+    LocalPlayer.Idled:Connect(function()
+        if antiAFKLoop then
+            local VU = game:GetService("VirtualUser")
+            VU:Button2Down(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+            task.wait(1)
+            VU:Button2Up(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+        end
+    end)
+end
+
+task.spawn(function()
+    while true do
+        if autoSteal then
+            local targets = ScanGardenFruits({
+                skipMy = true,
+                skipBlocked = true,
+                skipEmpty = skipEmptyPlots,
+                fruitFilter = stealFilter,
+                mutationFilter = stealMutation,
+                ripeOnly = stealRipeOnly,
+                smartSort = smartSort,
+            })
+            local didTP = false
+            for _, data in ipairs(targets) do
+                if not autoSteal then break end
+                if data.isMine then continue end
+                if FireStealTarget(data) then
+                    if teleportMode then didTP = true end
+                end
+                task.wait(stealGap)
+            end
+            if teleportMode and tpReturnAfterAll and didTP then
+                task.wait(tpReturnDelay)
+                local rp = GetMyPlotCenter()
+                if rp then TeleportTo(rp) end
+            end
+        end
+        task.wait(stealDelay)
+    end
+end)
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- AUTO CLAIM SEED PACK
+-- ══════════════════════════════════════════════════════════════════════════════
+local ClaimSub = AutoTab:AddSubTab("Auto Claim Seed")
+local autoClaim=false; local claimDelay=0.5; local claimGap=0.1
+local claimTeleport=true; local claimNotify=true
+local returnAfter=true; local totalClaimed=0; local claimStartPos=nil
+local claimedSpawns={}
+
+local function GetActiveSeedPackSpawns()
+    local spawns = {}
+    local map = workspace:FindFirstChild("Map")
+    if not map then return spawns end
+    local serverFolder = map:FindFirstChild("SeedPackSpawnServerLocations")
+    if serverFolder then
+        for _, part in ipairs(serverFolder:GetChildren()) do
+            if part.Parent then
+                local pos = part:IsA("BasePart") and part.Position or GetModelPosition(part)
+                local packName = part:GetAttribute("SeedPack")
+                    or (part:GetAttribute("RainbowSeed") and "Rainbow Seed")
+                    or (part:GetAttribute("GoldSeed") and "Gold Seed")
+                    or (part:GetAttribute("MegaSeed") and "Mega Seed")
+                    or "Seed Pack"
+                table.insert(spawns, {
+                    id = part:GetFullName(),
+                    part = part,
+                    position = pos,
+                    name = packName,
+                })
+            end
+        end
+    end
+    return spawns
+end
+
+ClaimSub:AddToggle({
+    Name="Auto Claim Seed Packs", Default=false, Flag="claim_auto",
+    Callback=function(v)
+        autoClaim = v
+        if v then local h=GetHRP(); if h then claimStartPos=h.Position end end
+        Window:Notify({Title="Auto Claim", Content=v and "ON" or "OFF", Type=v and "Success" or "Error", Duration=2})
+    end,
+})
+ClaimSub:AddSlider({ Name="Cycle Delay", Min=0.1, Max=10, Default=0.5, Suffix="s", Flag="claim_cycle", Callback=function(v) claimDelay=v end })
+ClaimSub:AddSlider({ Name="Claim Gap", Min=0.05, Max=2, Default=0.1, Suffix="s", Flag="claim_gap", Callback=function(v) claimGap=v end })
+ClaimSub:AddToggle({ Name="Teleport to Spawn", Default=true, Flag="claim_tp", Callback=function(v) claimTeleport=v end })
+ClaimSub:AddToggle({ Name="Return After Claim", Default=true, Flag="claim_return", Callback=function(v) returnAfter=v end })
+ClaimSub:AddToggle({ Name="Notify on Claim", Default=true, Flag="claim_notify", Callback=function(v) claimNotify=v end })
+
+local mapFolder = workspace:FindFirstChild("Map")
+if mapFolder then
+    local serverLocs = mapFolder:FindFirstChild("SeedPackSpawnServerLocations")
+    if serverLocs then
+        serverLocs.ChildAdded:Connect(function(child)
+            if autoClaim and claimNotify then
+                Window:Notify({Title="Seed Pack Spawned!", Content=child:GetAttribute("SeedPack") or "Special Seed", Type="Success", Duration=4})
+            end
+        end)
+    end
+end
+
+task.spawn(function()
+    while true do
+        if autoClaim then
+            local spawns = GetActiveSeedPackSpawns()
+            if #spawns > 0 then
+                local hrp = GetHRP()
+                if hrp and not claimStartPos then claimStartPos=hrp.Position end
+                for _, s in ipairs(spawns) do
+                    if not autoClaim then break end
+                    if claimedSpawns[s.id] then continue end
+                    if claimTeleport and s.position then
+                        TeleportTo(s.position)
+                        task.wait(0.15)
+                    end
+                    claimedSpawns[s.id] = tick()
+                    totalClaimed += 1
+                    if claimNotify then
+                        Window:Notify({Title="Seed Pack", Content=("Claimed: %s (Total: %d)"):format(s.name, totalClaimed), Type="Success", Duration=2})
+                    end
+                    task.wait(claimGap)
+                end
+                if returnAfter and claimStartPos then TeleportTo(claimStartPos) end
+            end
+        end
+        task.wait(claimDelay)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        task.wait(60)
+        local now = tick()
+        for id, t in pairs(claimedSpawns) do
+            if now - t > 120 then claimedSpawns[id] = nil end
+        end
+    end
+end)
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- BUY TAB
+-- ══════════════════════════════════════════════════════════════════════════════
+local BuyTab = Window:AddTab({ Name = "Buy", Subtitle = "Shop", Icon = "coin" })
+
+local function SetupBuySub(sub, shopName, buyFn, label)
+    local autoBuy = false
+    local buyDelay = 1
+    local buyGap = 0.08
+    local selected = {}
+    local buyMode = "Buy All"
+    local itemList = GetShopItems(shopName)
+
+    local function applySelected(sel) selected = sel or {} end
+    local dropdown = sub:AddMultiDropdown({
+        Name = "Select " .. label .. "s",
+        Options = itemList,
+        Default = {},
+        MaxVisible = 6,
+        Searchable = true,
+        Flag = "buy_" .. shopName .. "_items",
+        Callback = applySelected,
+    })
+    registerResync(dropdown, applySelected)
+    sub:AddButton({
+        Name = "Refresh Shop List",
+        Callback = function()
+            itemList = GetShopItems(shopName)
+            dropdown:SetOptions(itemList)
+            Window:Notify({Title = label .. " Shop", Content = #itemList .. " items", Type = "Info", Duration = 3})
+        end,
+    })
+    local function applyMode(v) buyMode = v end
+    local modeDropdown = sub:AddDropdown({
+        Name = "Buy Mode",
+        Options = {"Buy All", "Buy 1 Each", "Round Robin"},
+        Default = "Buy All",
+        MaxVisible = 3,
+        Flag = "buy_" .. shopName .. "_mode",
+        Callback = applyMode,
+    })
+    registerResync(modeDropdown, applyMode)
+    sub:AddSlider({ Name = "Cycle Delay", Min = 0.1, Max = 10, Default = 1, Suffix = "s", Flag = "buy_" .. shopName .. "_delay", Callback = function(v) buyDelay = v end })
+    sub:AddSlider({ Name = "Buy Gap", Min = 0.02, Max = 2, Default = 0.08, Suffix = "s", Flag = "buy_" .. shopName .. "_gap", Callback = function(v) buyGap = v end })
+    sub:AddToggle({
+        Name = "Auto Buy " .. label .. "s",
+        Default = false,
+        Flag = "buy_" .. shopName .. "_enabled",
+        Callback = function(v)
+            autoBuy = v
+            local summary = #selected > 0 and (#selected .. " selected") or "nothing selected"
+            Window:Notify({Title = "Auto Buy", Content = v and ("Buying: " .. summary) or "OFF", Type = v and "Success" or "Error", Duration = 2})
+        end,
+    })
+    sub:AddButton({
+        Name = "Buy Once (Test)",
+        Primary = true,
+        Callback = function()
+            if #selected == 0 then
+                Window:Notify({Title = "Buy", Content = "Select at least one item.", Type = "Error", Duration = 2})
+                return
+            end
+            for _, item in ipairs(selected) do
+                buyFn(item)
+                task.wait(buyGap)
+            end
+            Window:Notify({Title = "Buy", Content = ("Bought %d item(s)"):format(#selected), Type = "Info", Duration = 2})
+        end,
+    })
+
+    local rrIndex = 1
+    task.spawn(function()
+        while true do
+            if autoBuy and #selected > 0 then
+                if buyMode == "Buy All" then
+                    for _, item in ipairs(selected) do
+                        if not autoBuy then break end
+                        for _ = 1, 30 do
+                            if not autoBuy then break end
+                            buyFn(item)
+                            task.wait(buyGap)
+                        end
+                    end
+                elseif buyMode == "Buy 1 Each" then
+                    for _, item in ipairs(selected) do
+                        if not autoBuy then break end
+                        buyFn(item)
+                        task.wait(buyGap)
+                    end
+                else
+                    local item = selected[rrIndex]
+                    if item then
+                        buyFn(item)
+                        rrIndex = (rrIndex % #selected) + 1
+                    end
+                end
+            end
+            task.wait(buyDelay)
+        end
+    end)
+
+    local stock = ReplicatedStorage:FindFirstChild("StockValues")
+    if stock then
+        local shop = stock:FindFirstChild(shopName)
+        if shop and shop:FindFirstChild("Items") then
+            shop.Items.ChildAdded:Connect(function()
+                itemList = GetShopItems(shopName)
+                dropdown:SetOptions(itemList)
+            end)
+        end
+    end
+
+    return #itemList
+end
+
+local seedCount = SetupBuySub(BuyTab:AddSubTab("Buy Seeds"), "SeedShop", BuySeed, "Seed")
+local gearCount = SetupBuySub(BuyTab:AddSubTab("Buy Gears & Tools"), "GearShop", BuyGear, "Gear")
+local crateCount = SetupBuySub(BuyTab:AddSubTab("Buy Crates"), "CrateShop", BuyCrate, "Crate")
+
+-- ── AUTO OPEN CRATES ──────────────────────────────────────────────────────────
+local OpenSub = BuyTab:AddSubTab("Open Crates")
+local autoOpenCrates = false
+local openDelay = 1
+local openGap = 0.3
+local openCount = 0
+
+OpenSub:AddToggle({
+    Name = "Auto Open Crates", Default = false, Flag = "crate_open_auto",
+    Callback = function(v)
+        autoOpenCrates = v
+        if v then openCount = 0 end
+        Window:Notify({Title = "Auto Open", Content = v and "ON" or "OFF", Type = v and "Success" or "Error", Duration = 2})
+    end,
+})
+OpenSub:AddSlider({ Name = "Cycle Delay", Min = 0.2, Max = 10, Default = 1, Suffix = "s", Flag = "crate_open_cycle", Callback = function(v) openDelay = v end })
+OpenSub:AddSlider({ Name = "Open Gap", Min = 0.1, Max = 3, Default = 0.3, Suffix = "s", Flag = "crate_open_gap", Callback = function(v) openGap = v end })
+OpenSub:AddButton({
+    Name = "Open All Crates Now", Primary = true,
+    Callback = function()
+        local crates = GetBackpackCrates()
+        local opened = 0
+        for _, c in ipairs(crates) do
+            if OpenCrateDirect(c.id) then opened += 1 end
+            task.wait(openGap)
+        end
+        Window:Notify({Title = "Open Crates", Content = ("Opened %d crate(s)"):format(opened), Type = opened > 0 and "Success" or "Info", Duration = 3})
+    end,
+})
+
+task.spawn(function()
+    while true do
+        if autoOpenCrates then
+            for _, c in ipairs(GetBackpackCrates()) do
+                if not autoOpenCrates then break end
+                if OpenCrateDirect(c.id) then openCount += 1 end
+                task.wait(openGap)
+            end
+        end
+        task.wait(openDelay)
+    end
+end)
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- MISC TAB
+-- ══════════════════════════════════════════════════════════════════════════════
+local MiscTab = Window:AddTab({ Name = "Misc", Subtitle = "Garden", Icon = "home" })
+local GardenSub = MiscTab:AddSubTab("Garden")
+
+GardenSub:AddButton({
+    Name = "Expand Garden", Primary = true,
+    Callback = function()
+        ExpandGarden()
+        Window:Notify({Title="Garden", Content="Expand request sent!", Type="Success", Duration=2})
+    end,
+})
+GardenSub:AddButton({
+    Name = "Sync Gardens",
+    Callback = function()
+        pcall(function() Networking.Garden.RequestGardens:Fire() end)
+        Window:Notify({Title="Garden", Content="Garden sync requested.", Type="Info", Duration=2})
+    end,
+})
+GardenSub:AddButton({
+    Name = "Teleport to My Plot",
+    Callback = function()
+        local center = GetMyPlotCenter()
+        if center then
+            TeleportTo(center)
+            Window:Notify({Title="Teleport", Content="Teleported to your plot.", Type="Success", Duration=2})
+        else
+            Window:Notify({Title="Teleport", Content="Could not find your plot.", Type="Error", Duration=2})
+        end
+    end,
+})
+
+local InfoSub = MiscTab:AddSubTab("Info")
+InfoSub:AddButton({
+    Name = "Show Game Status",
+    Callback = function()
+        local plot = FindMyPlot()
+        local preview = PreviewSell()
+        local sellVal = preview and (preview.TotalSellValue or preview.TotalValue or 0) or "?"
+        Window:Notify({
+            Title = "GAG2 Status",
+            Content = ("Plot: %s | Night: %s | Sell: %s | Steals: %d | Planted: %d | Watered: %d | Crates: %d"):format(
+                plot and plot.Name or "?",
+                IsNight() and "Yes" or "No",
+                tostring(sellVal),
+                stealCount,
+                plantPlantedCount,
+                waterCount,
+                openCount
+            ),
+            Type = "Info", Duration = 6,
+        })
+    end,
+})
+
+-- ══════════════════════════════════════════════════════════════════════════════
+-- SETTINGS TAB (config save / load via MSS UI flag system)
+-- ══════════════════════════════════════════════════════════════════════════════
+local SettingsTab = Window:AddTab({ Name = "Settings", Subtitle = "Configuration", Icon = "settings" })
+local CfgSub = SettingsTab:AddSubTab("Config")
+
+CfgSub:AddParagraph({
+    Title = "Configs",
+    Text = "Save and restore every toggle, slider and dropdown across sessions. Configs are stored on disk by your executor.",
+})
+
+local cfgNameInput = CfgSub:AddInput({
+    Name = "Config Name", Placeholder = "gag2", Default = CONFIG_NAME,
+    Callback = function(t) if t and t ~= "" then CONFIG_NAME = t end end,
+})
+
+if HAS_CONFIG then
+    CfgSub:AddSection("Manage")
+
+    local cfgListDropdown
+    cfgListDropdown = CfgSub:AddDropdown({
+        Name = "Saved Configs", Options = Library:ListConfigs(), MaxVisible = 5, Searchable = true,
+        Callback = function(v)
+            if v and v ~= "" then
+                CONFIG_NAME = v
+                if cfgNameInput then cfgNameInput:Set(v) end
+            end
+        end,
+    })
+
+    CfgSub:AddButton({
+        Name = "Save Config", Primary = true,
+        Callback = function()
+            local ok = Library:SaveConfig(CONFIG_NAME)
+            if cfgListDropdown then cfgListDropdown:SetOptions(Library:ListConfigs()) end
+            Window:Notify({Title="Config", Content=ok and ("Saved '"..CONFIG_NAME.."'") or "Save failed", Type=ok and "Success" or "Error", Duration=3})
+        end,
+    })
+    CfgSub:AddButton({
+        Name = "Load Config",
+        Callback = function()
+            local ok = Library:LoadConfig(CONFIG_NAME)
+            if ok then ResyncAll() end
+            Window:Notify({Title="Config", Content=ok and ("Loaded '"..CONFIG_NAME.."'") or "Config not found", Type=ok and "Success" or "Error", Duration=3})
+        end,
+    })
+    CfgSub:AddButton({
+        Name = "Refresh List",
+        Callback = function()
+            if cfgListDropdown then cfgListDropdown:SetOptions(Library:ListConfigs()) end
+            Window:Notify({Title="Config", Content="List refreshed.", Type="Info", Duration=2})
+        end,
+    })
+    CfgSub:AddButton({
+        Name = "Delete Config",
+        Callback = function()
+            local ok = type(Library.DeleteConfig) == "function" and Library:DeleteConfig(CONFIG_NAME)
+            if cfgListDropdown then cfgListDropdown:SetOptions(Library:ListConfigs()) end
+            Window:Notify({Title="Config", Content=ok and ("Deleted '"..CONFIG_NAME.."'") or "Delete failed", Type=ok and "Success" or "Error", Duration=3})
+        end,
+    })
+
+    -- Auto-load the default config on startup once every element/flag is registered.
+    task.defer(function()
+        for _, name in ipairs(Library:ListConfigs()) do
+            if name == CONFIG_NAME then
+                if Library:LoadConfig(CONFIG_NAME) then
+                    ResyncAll()
+                    Window:Notify({Title="Config", Content="Loaded saved settings.", Type="Info", Duration=3})
+                end
+                break
+            end
+        end
+    end)
+else
+    CfgSub:AddParagraph({
+        Title = "Saving Unavailable",
+        Text = "The loaded MSS UI build does not support config saving. Update the library to v2.3+ to enable it.",
+    })
+end
+
+task.delay(2.5, function()
+    local plot = FindMyPlot()
+    Window:Notify({
+        Title = "MSS HUB v30",
+        Content = ("Plot: %s | Seeds: %d | Gears: %d | Crates: %d\nAuto Plant v2 — equip + grid fill"):format(
+            plot and plot.Name or "?", seedCount, gearCount, crateCount),
+        Type = "Success", Duration = 6,
+    })
+end)
+
+print("[MSS HUB v30] Loaded — GAG2 auto plant v2 + multi-select buy shops")
